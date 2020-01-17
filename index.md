@@ -23,7 +23,9 @@ Become an OWASP Member TODAY (https://www.owasp.org/membership)
 Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 
 ## Events
-We are on Meetup. For the list of latest events please join our community [here](http://www.meetup.com/OWASP-Los-Angeles)
+![meetup](assets/images/meetup-logo-160x65.png)
+
+We are on Meetup. For the list of latest events please join our community https://www.meetup.com/OWASP-Los-Angeles
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
