@@ -1,4 +1,5 @@
-### AppSecCali 2020
+### AppSecCali 2020 
+Jan 21-24, 2020
 
 ![appseccali](assets/images/owasp2020transparent160x160.png)
 * [AppSecCali](https://www.appseccali.org)
