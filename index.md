@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Los Angeles
-tags: example-tag
+tags: Events-tag
 level: 0
 
 region: United States
