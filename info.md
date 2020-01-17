@@ -1,6 +1,7 @@
 ### AppSecCali 2020
+
+![appseccali](assets/images/owasp2020transparent160x160.png)
 * [AppSecCali](https://www.appseccali.org)
-![meetup](assets/images/meetup-logo-160x65.png)
 
 
 ### Social Links
