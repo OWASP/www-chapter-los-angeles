@@ -1,6 +1,10 @@
 <!--### Chapter Information
 * Chapter Region
 
+### AppSecCali 2020
+![AppSecCali] (https://www.appseccali.org)
+
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [YouTube](https://www.youtube.com/watch?v=hqui975ee9c)
+* [Twitter](https://twitter.com/owaspla)
+
