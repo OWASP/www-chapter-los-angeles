@@ -6,6 +6,6 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Past Events
 
-Put whatever you like here: news, screenshots, features, supporters, or remove this file and don't use tabs at all.
+We're still not done with our migration; please check back later
