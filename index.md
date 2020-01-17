@@ -10,6 +10,19 @@ region: United States
 auto-migrated: 1
 
 ---
+## Welcome
+Welcome to the OWASP
+[Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) chapter home page.
+
+The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
+
+## Participation
+
+The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
+
+Become an OWASP Member TODAY (https://www.owasp.org/membership)
+Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
+
 
 
 <!-- Standard Chapter Page Template
