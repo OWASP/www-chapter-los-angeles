@@ -3,7 +3,7 @@ title: Past Events
 layout:  null
 tab: true
 order: 1
-tags: example-tag
+tags: Events-tag
 ---
 
 ## Past Events
