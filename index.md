@@ -7,8 +7,6 @@ level: 0
 
 region: United States
 
-auto-migrated: 1
-
 ---
 ## Welcome
 Welcome to the OWASP
@@ -16,7 +14,7 @@ Welcome to the OWASP
 
 The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
 
-[OWASP LA](assets/images/Sunset OWASP LA 2020 banner 1000x200.jpg)
+![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
 
 ## Participation
 
