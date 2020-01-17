@@ -9,21 +9,21 @@ region: United States
 
 ---
 ## Welcome
+![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
 Welcome to the OWASP
-[Los Angeles](https://en.wikipedia.org/wiki/Los_Angeles) chapter home page.
+[LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
 The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
-
-![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
 
 ## Participation
 
-The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month for dinner, a great security-related speaker and great networking. We frequently go out for post-talk drinks to socialize and understand what security is really about. Join the movement today!
+The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
 Become an OWASP Member TODAY (https://www.owasp.org/membership)
 Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 
-
+## Events
+We are on Meetup. For the list of latest events please join our community [here](http://www.meetup.com/OWASP-Los-Angeles)
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
