@@ -32,7 +32,7 @@ Meet upwards of 80-120 potential new clients - Be recognized as a local supporte
 
 The cost is only $1,200
 
-https://www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471?aff=ebdssbdestsearch
+https://www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471
 
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
