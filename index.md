@@ -27,6 +27,12 @@ Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 
 We are on Meetup. For the list of latest events please join our community https://www.meetup.com/OWASP-Los-Angeles
 
+## Sponsor
+Meet upwards of 80-120 potential new clients - Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. - Have a table at local chapter meeting with lots of time to meet and greet attendees - Promote your products and services - Bring a raffle prize to gather business cards and contact information
+
+The cost is only $1,200
+https://www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471?aff=ebdssbdestsearch
+
 <!-- Standard Chapter Page Template
 This is an example of a Project or Chapter page.
 Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
