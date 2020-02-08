@@ -5,3 +5,4 @@
 * [Dave Wettenstein](mailto:dave.wettenstein@owasp.org)
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org)
 * Aryan Guenthner
+* Aneel Dadani
