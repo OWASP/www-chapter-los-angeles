@@ -34,5 +34,5 @@ Meet upwards of 80-120 potential new clients - Be recognized as a local supporte
 
 The cost is only $1,200
 
-[www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471](https://www.eventbrite.com/e/owasp-los-angeles-chapter-dinner-meeting-sponsor-tickets-30572600471)
+[https://www.eventbrite.com/e/owasp-los-angeles-chapter-meeting-sponsorship-tickets-30572600471](https://www.eventbrite.com/e/owasp-los-angeles-chapter-meeting-sponsorship-tickets-30572600471)
 
