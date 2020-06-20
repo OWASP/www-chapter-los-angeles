@@ -32,7 +32,7 @@ We are on Meetup. For the list of latest events please join our community [www.m
 
 Meet upwards of 80-120 potential new clients - Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. - Have a table at local chapter meeting with lots of time to meet and greet attendees - Promote your products and services - Bring a raffle prize to gather business cards and contact information
 
-The cost is only $1,200
+COVID-19 Price Reduction: $1200 Now Only $699.00
 
 [https://www.eventbrite.com/e/owasp-los-angeles-chapter-meeting-sponsorship-tickets-30572600471](https://www.eventbrite.com/e/owasp-los-angeles-chapter-meeting-sponsorship-tickets-30572600471)
 
