@@ -27,6 +27,8 @@ Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 
 We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
 
+{% include chapter_events.html group=page.meetup-group %};
+
 ##
 ![meetup](assets/images/BecomeASponsor-241x75.png)
 
