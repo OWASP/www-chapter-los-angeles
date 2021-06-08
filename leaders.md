@@ -5,4 +5,5 @@
 * [Dave Wettenstein](mailto:dave.wettenstein@owasp.org)
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org)
 * [Aryan Guenthner](aryan.guenthner@owasp.org)
-* [Aneel Dadani](aneel.dadani@owasp.org)
+* [Aidan Anderson] (aidan.anderson@owasp.org)
+* [Liliya Frye] (liliya.frye@owasp.org)
