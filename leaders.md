@@ -1,6 +1,4 @@
 ### Leaders
-
-
 * [Cassio Goldschmidt](mailto:cassio@owasp.org)
 * [Dave Wettenstein](mailto:dave.wettenstein@owasp.org)
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org)
