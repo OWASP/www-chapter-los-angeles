@@ -15,6 +15,7 @@ meetup-group: OWASP-Los-Angeles
 Welcome to the OWASP
 [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
+## TWO MEETINGs in OCT!!! 
 The OWASP Los Angeles chapter virtually meets on the 4th Wednesday every month during lunch (Pacific Time), a great security-related speaker and opportunit for virtual networking.
 
 ## Participation
@@ -28,6 +29,7 @@ Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
 ## Events
 ![meetup](assets/images/meetup-logo-160x65.png)
 
+## TWO MEETINGs in OCT!!! 
 We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
 
 {% include chapter_events.html group=page.meetup-group %}
