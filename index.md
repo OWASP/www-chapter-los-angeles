@@ -7,8 +7,6 @@ level: 0
 
 region: North America
 meetup-group: OWASP-Los-Angeles
-
-
 ---
 ## Welcome
 ![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
@@ -16,7 +14,12 @@ Welcome to the OWASP
 [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
 The OWASP Los Angeles chapter regularly meets in-person on the 4th Wednesday every month featuring dinner, a great speaker and opportunity for networking.
+##
+![meetup](assets/images/BecomeASponsor-241x75.png)
 
+Meet upwards of 80-120 potential new clients - Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. You'll have the opportunity to present your product to attendees prior to start of our virtual meeting.
+
+Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 ## Participation
 
 The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
@@ -32,10 +35,6 @@ We are on Meetup. For the list of latest events please join our community [www.m
 
 {% include chapter_events.html group=page.meetup-group %}
 
-##
-![meetup](assets/images/BecomeASponsor-241x75.png)
 
-Meet upwards of 80-120 potential new clients - Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. You'll have the opportunity to present your product to attendees prior to start of our virtual meeting.
 
-Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
