@@ -14,6 +14,7 @@ Welcome to the OWASP
 [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
 The OWASP Los Angeles chapter regularly meets in-person on the 4th Wednesday every month featuring dinner, a great speaker and opportunity for networking.
+
 ##
 ![meetup](assets/images/BecomeASponsor-241x75.png)
 
