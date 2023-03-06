@@ -3,5 +3,5 @@
 * [Dave Wettenstein](mailto:dave.wettenstein@owasp.org)
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org)
 * [Antonella Commiato](mailto:antonella.commiato@owasp.org)
-* [OPEN](mailto:name@owasp.org)
+* [Michelle Wilner](mailto:michelle.wilner@owasp.org)
 
