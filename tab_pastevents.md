@@ -6,13 +6,16 @@ tab: true
 order: 1
 tags: Events-tag
 ---
+<hr>
 
-## Past Events - RECORDINGS
+**PRESENTATIONS** <br>
+**2023 June: [Security Architecture - What is it? How to Deploy it?](zz_prez_2023_06.pdf)** <br>
+**2023 May: [Tactical Security - Improving AppSec Coverage with Fewer Resources](zz_prez_2023_05.pdf)** <br>
 
-[Recording available at OWSAP LA YouTube Channel](https://www.youtube.com/channel/UCWpSmI6D2KYc-LyYBVTMeaw?)
+**ALL Meetings (Topic, Abstract, Speakers, etc.)** <br>
+https://www.meetup.com/owasp-los-angeles <br>
 
-OWASP LA Apr 22, 2020 VIRTUAL Meeting
-TOPIC: Bigger, Faster and more Secure
-SPEAKER: Laura Bell
+**Prior to April 2022** <br>
+[OWSAP LA YouTube Channel](https://www.youtube.com/OWASPLosAngeles)
 
 
