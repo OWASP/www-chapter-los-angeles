@@ -23,7 +23,11 @@ Meet upwards of 80-120 potential new clients - Be recognized as a local supporte
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 ## Participation
 
-The Open Web Application Security Project (OWASP) is a not-for-profit, worldwide organization focused on improving the security of application software. Our mission is to make application security visible, so that people and organizations can make informed decisions about true application security risks. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
+OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
+
+The OWASP Los Angeles chapter was formed in 2008 by Cassio Goldschmidt who served as its first president followed by Tin Zaw and Richard Greenberg. Under their leadership, OWASP LA was awarded Chapter of the Year. OWASP LA was one of the founding chapters of the world-reknown AppSec California conferences.
+
+We hold meetups on the 4th Wednesday of every month, featuring great speakers on important security topics. Join us for food, drinks, and to socialize and understand what application security is really about. 
 
 Become an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership)
 
