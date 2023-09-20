@@ -6,6 +6,7 @@ tags: Events-tag
 level: 0
 
 region: North America
+country:  USA
 meetup-group: OWASP-Los-Angeles
 ---
 ## Welcome
