@@ -3,4 +3,5 @@
 * [Antonella Commiato](mailto:antonella.commiato@owasp.org)
 * [Michelle Wilner](mailto:michelle.wilner@owasp.org)
 * [Ron Shelton](mailto:ron.shelton@owasp.org)
-* [Mark Smith](mailto:mark.smith@owasp.org) 
+* [Mark Smith](mailto:mark.smith@owasp.org)
+* [Regine Lawton](mailto:regine.lawton@owasp.org]
