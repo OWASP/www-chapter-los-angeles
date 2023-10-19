@@ -4,4 +4,4 @@
 * [Michelle Wilner](mailto:michelle.wilner@owasp.org)
 * [Ron Shelton](mailto:ron.shelton@owasp.org)
 * [Mark Smith](mailto:mark.smith@owasp.org)
-* [Regine Lawton](mailto:regine.lawton@owasp.org]
+* [Regine Lawton](mailto:regine.lawton@owasp.org)
