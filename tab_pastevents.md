@@ -9,6 +9,7 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
+&nbsp;&nbsp; **2023 Nov**: [Security In Industrial Control Systems](assets/prez/OWASPLA_prez_2023_11-1.pdf) <br>
 &nbsp;&nbsp; **2023 Aug**: [AppSec 2.0: Reimagine AppSec with Runtime Analysis](assets/prez/OWASPLA_prez_2023_08.pdf) <br>
 &nbsp;&nbsp; **2023 June**: [Security Architecture - What is it? How to Deploy it?](assets/prez/OWASPLA_prez_2023_06.pdf) <br>
 &nbsp;&nbsp; **2023 May**: [Tactical Security - Improving AppSec Coverage with Fewer Resources](assets/prez/OWASPLA_prez_2023_05.pdf) <br>
