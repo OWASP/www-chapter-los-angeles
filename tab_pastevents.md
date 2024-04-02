@@ -9,6 +9,7 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
+&nbsp;&nbsp; **2024 Mar**: [Workshop: Hands-on Vulnerability Reachability Analysis Using OSS Tools-Mike Larkin](assets/prez/OWASPLA_prez_2024_03-1.pdf) <br>
 &nbsp;&nbsp; **2024 Mar**: [Decoding Compliance to Empower Developers-Karina Klever](assets/prez/OWASPLA_prez_2024_03.pdf) <br>
 &nbsp;&nbsp; **2024 Feb**: [Navigating the Maze  Making Sense of Vulnerability Risk Indicators-Raffi Erganian](assets/prez/OWASPLA_prez_2024_02.pdf) <br>
 &nbsp;&nbsp; **2024 Jan**: [Privacy-by-Design-for-Web-Developers-Miguel (Mike) O. Villegas](assets/prez/OWASPLA_prez_2024_01.pdf) <br>
