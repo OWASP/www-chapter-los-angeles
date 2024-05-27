@@ -26,13 +26,11 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
-The OWASP Los Angeles chapter was formed in 2008 by Cassio Goldschmidt who served as its first president followed by Tin Zaw and Richard Greenberg. Under their leadership, OWASP LA was awarded Chapter of the Year. OWASP LA was one of the founding chapters of the world-reknown AppSec California conferences.
+The OWASP Los Angeles chapter was formed in 2008 by Cassio Goldschmidt.
 
-We hold meetups on the 4th Wednesday of every month, featuring great speakers on important security topics. Join us for food, drinks, and to socialize and understand what application security is really about. 
+We hold meetups on the 4th Wednesday of every month, featuring great speakers on important application security topics. Join us for food, drinks, and to network with your peers and get a better understanding of challenges with application security.
 
-Become an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership)
-
-Support your LA Chapter: only $50 for the entire year! ($20 if you're a student)
+Support your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only $50 for the entire year! ($20 if you're a student)
 
 ## Events
 ![meetup](assets/images/meetup-logo-160x65.png)
