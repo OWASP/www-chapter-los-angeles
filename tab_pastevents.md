@@ -11,7 +11,7 @@ tags: Events-tag
 **PRESENTATIONS** <br>
 &nbsp;&nbsp; **2024 Jun**: [What's in your AI code?-Darren Meyer](assets/prez/OWASPLA_prez_2024_06.pdf) <br>
 &nbsp;&nbsp; **2024 May**: [ Securing Generative AI Applications using the OWASP Top 10 for Large Language Models-Steve Wilson](assets/prez/OWASPLA_prez_2024_05.pdf) <br>
-&nbsp;&nbsp; **2024 Apr**: [Building A Product Security Team – The Good, The Bad And The Ugly-Peter Morin](assets/prez/OWASPLA_prez_2024_04.pdf) <br>
+&nbsp;&nbsp; **2024 Apr**: [Building A Product Security Team – The Good, The Bad And The Ugly-Peter Morin](assets/prez/.pdf) <br>
 &nbsp;&nbsp; **2024 Mar**: [Workshop: Hands-on Vulnerability Reachability Analysis Using OSS Tools-Mike Larkin](assets/prez/OWASPLA_prez_2024_03-1.pdf) <br>
 &nbsp;&nbsp; **2024 Mar**: [Decoding Compliance to Empower Developers-Karina Klever](assets/prez/OWASPLA_prez_2024_03.pdf) <br>
 &nbsp;&nbsp; **2024 Feb**: [Navigating the Maze  Making Sense of Vulnerability Risk Indicators-Raffi Erganian](assets/prez/OWASPLA_prez_2024_02.pdf) <br>
