@@ -9,7 +9,7 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
-&nbsp;&nbsp; **2024 Aug**: [Integrating Security Best Practices with Shift-Left and Shift-Right in Agile SDLC](assets/prez/OWASPLA_prez_2024_08.pdf) <br>
+&nbsp;&nbsp; **2024 Aug**: [Integrating Security Best Practices with Shift-Left and Shift-Right in Agile SDLC-Liliya Frye](assets/prez/OWASPLA_prez_2024_08.pdf) <br>
 &nbsp;&nbsp; **2024 Jul**: [Breaking Through CVE Noise: Analyzing 5 Key Prioritization Inputs-Chelsea Boling](assets/prez/OWASPLA_prez_2024_07.pdf) <br>
 &nbsp;&nbsp; **2024 Jun**: [What's in your AI code?-Darren Meyer](assets/prez/OWASPLA_prez_2024_06.pdf) <br>
 &nbsp;&nbsp; **2024 May**: [ Securing Generative AI Applications using the OWASP Top 10 for Large Language Models-Steve Wilson](assets/prez/OWASPLA_prez_2024_05.pdf) <br>
