@@ -3,4 +3,6 @@
 * [Michelle Wilner](mailto:michelle.wilner@owasp.org)
 * [Mark Smith](mailto:mark.smith@owasp.org)
 * [Maryam Tehrani](mailto:maryam.tehrani@owasp.org)
-* [Cybersecurity Awareness Month](2024ChampionBadge-CybersecurityAwarenessMonth.png)
+
+  
+* [Cybersecurity Awareness Month](assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png)
