@@ -1,5 +1,4 @@
 
-
  ### Cybersecurity Awareness Month Champion
   ![Cybersecurity Awareness Month badge](assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png)
 
