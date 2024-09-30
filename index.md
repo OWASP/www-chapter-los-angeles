@@ -16,8 +16,7 @@ Welcome to the OWASP
 
 The OWASP Los Angeles chapter regularly meets in-person on the 4th Wednesday every month featuring dinner, a great speaker and opportunity for networking.
 
-##
-![meetup](assets/images/BecomeASponsor-241x75.png)
+## ![meetup](assets/images/BecomeASponsor-241x75.png)
 
 Meet upwards of 80-120 potential new clients - Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. You'll have the opportunity to present your product to attendees prior to start of our virtual meeting.
 
