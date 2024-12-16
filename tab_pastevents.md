@@ -9,6 +9,7 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
+&nbsp;&nbsp; **2024 Nov**: [AI and OWASP-*Rob van der Veer*](assets/prez/OWASPLA_prez_2024_12.pdf) <br>
 &nbsp;&nbsp; **2024 Nov**: [State of Pentesting 2024-Caroline Wong](assets/prez/OWASPLA_prez_2024_11.pdf) <br>
 &nbsp;&nbsp; **2024 Nov**: [OWASP SAMM Intro-Esfandiar Behrooz](assets/prez/OWASPLA_prez_2024_11-1.pdf) <br>
 &nbsp;&nbsp; **2024 Oct**: [Program Analysis: From Difficult to Impossible-Brandon Wu](assets/prez/OWASPLA_prez_2024_10.pdf) <br>
