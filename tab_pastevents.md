@@ -10,11 +10,11 @@ tags: Events-tag
 
 **PRESENTATIONS** <br>
 &nbsp;&nbsp; **2024 Nov**: [AI and OWASP-*Rob van der Veer*](assets/prez/OWASPLA_prez_2024_12.pdf) <br>
-&nbsp;&nbsp; **2024 Nov**: [State of Pentesting 2024-*Caroline Wong*](assets/prez/OWASPLA_prez_2024_11.pdf) <br>
-&nbsp;&nbsp; **2024 Nov**: [OWASP SAMM Intro-*Esfandiar Behrooz*](assets/prez/OWASPLA_prez_2024_11-1.pdf) <br>
+&nbsp;&nbsp; **2024 Nov**: [State of Pentesting 2024-*Caroline Wong*](assets/prez/OWASPLA_prez_2024_11.pdf) <a href="https://youtu.be/wixNN9iQd3g?t=1167"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
+&nbsp;&nbsp; **2024 Nov**: [OWASP SAMM Intro-*Esfandiar Behrooz*](assets/prez/OWASPLA_prez_2024_11-1.pdf) <a href="https://youtu.be/wixNN9iQd3g"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2024 Oct**: [Program Analysis: From Difficult to Impossible-*Brandon Wu*](assets/prez/OWASPLA_prez_2024_10.pdf) <br>
 &nbsp;&nbsp; **2024 Oct**: [Hands-on workshop utilize OWASP DSOMM App to Define and Deliver Your Own program-*Timo Pagel*](assets/prez/OWASPLA_prez_2024_10-1.pdf) <br>
-&nbsp;&nbsp; **2024 Aug**: [Integrating Security Best Practices with Shift-Left and Shift-Right in Agile SDLC-*Liliya Frye*](assets/prez/OWASPLA_prez_2024_08.pdf) <br>
+&nbsp;&nbsp; **2024 Aug**: [Integrating Security Best Practices with Shift-Left and Shift-Right in Agile SDLC-*Liliya Frye*](assets/prez/OWASPLA_prez_2024_08.pdf) <a href="https://www.youtube.com/watch?v=uRHVpOovZ0Y"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2024 Jul**: [Breaking Through CVE Noise: Analyzing 5 Key Prioritization Inputs-*Chelsea Boling*](assets/prez/OWASPLA_prez_2024_07.pdf) <br>
 &nbsp;&nbsp; **2024 Jun**: [What's in your AI code?-*Darren Meyer*](assets/prez/OWASPLA_prez_2024_06.pdf) <br>
 &nbsp;&nbsp; **2024 May**: [ Securing Generative AI Applications using the OWASP Top 10 for Large Language Models-*Steve Wilson*](assets/prez/OWASPLA_prez_2024_05.pdf) <br>
