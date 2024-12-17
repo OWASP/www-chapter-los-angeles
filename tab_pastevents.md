@@ -24,7 +24,7 @@ tags: Events-tag
 &nbsp;&nbsp; **2024 Feb**: [Navigating the Maze  Making Sense of Vulnerability Risk Indicators-*Raffi Erganian*](assets/prez/OWASPLA_prez_2024_02.pdf) <br>
 &nbsp;&nbsp; **2024 Jan**: [Privacy-by-Design-for-Web-Developers-*Miguel (Mike) O. Villegas*](assets/prez/OWASPLA_prez_2024_01.pdf) <br>
 
-&nbsp;&nbsp; **2023 Dec**: [Making the OWASP Top 10 2024-*Andrew van der Stock*](https://youtu.be/K1DKMD2vSPs) <br>
+&nbsp;&nbsp; **2023 Dec**: [Making the OWASP Top 10 2024-*Andrew van der Stock*](https://youtu.be/K1DKMD2vSPs)  <a href="https://www.youtube.com/watch?v=K1DKMD2vSPs"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2023 Nov**: [Security In Industrial Control Systems-*Veer Singh*](assets/prez/OWASPLA_prez_2023_11-1.pdf) <br>
 &nbsp;&nbsp; **2023 Aug**: [AppSec 2.0: Reimagine AppSec with Runtime Analysis-*Miguel (Mike) O. Villegas*](assets/prez/OWASPLA_prez_2023_06.pdf) <br>
 &nbsp;&nbsp; **2023 May**: [Tactical Security - Improving AppSec Coverage with Fewer Resources-*Rich Newman*](assets/prez/OWASPLA_prez_2023_05.pdf) <br>
