@@ -9,6 +9,9 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
+
+&nbsp;&nbsp; **2025 Jan**: [Adding API Security to your DevSecOps Toolbelt
+Join us for great networking, dinner and drinks, and see a presentation by *Scott Bly*](assets/prez/OWASPLA_prez_2025_01.pdf) <br>
 &nbsp;&nbsp; **2024 Dec**: [AI and OWASP-*Rob van der Veer*](assets/prez/OWASPLA_prez_2024_12.pdf) <a href="https://youtu.be/VhlF0Gpc9Ts"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2024 Nov**: [State of Pentesting 2024-*Caroline Wong*](assets/prez/OWASPLA_prez_2024_11.pdf) <a href="https://youtu.be/wixNN9iQd3g?t=1167"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2024 Nov**: [OWASP SAMM Intro-*Esfandiar Behrouz*](assets/prez/OWASPLA_prez_2024_11-1.pdf) <a href="https://youtu.be/wixNN9iQd3g"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
