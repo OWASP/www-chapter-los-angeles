@@ -29,7 +29,7 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
 
-The OWASP Los Angeles chapter was formed in 2008 by Cassio Goldschmidt.
+The OWASP Los Angeles chapter was formed in 2008 by [Cassio Goldschmidt](https://linkedin.com/in/cassiogoldschmidt).
 
 We hold meetups on the 4th Wednesday of every month, featuring great speakers on important application security topics. Join us for food, drinks, and to network with your peers and get a better understanding of challenges with application security.
 
