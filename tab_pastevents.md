@@ -10,6 +10,7 @@ tags: Events-tag
 
 **PRESENTATIONS** <br>
 
+&nbsp;&nbsp; **2025 Feb**: [Navigating CCPA/CPRA: Implications for AI, Data Privacy, and Federated Learning-*Mike Villegas*](assets/prez/OWASPLA_prez_2025_02.pdf) <br>
 &nbsp;&nbsp; **2025 Feb**: [Hands-on Web Security Code Review Workshop-*Louis Nyffenegger*](assets/prez/OWASPLA_prez_2025_02-1.pdf) <br>
 &nbsp;&nbsp; **2025 Jan**: [Adding API Security to your DevSecOps Toolbelt-*Scott Bly*](assets/prez/OWASPLA_prez_2025_01.pdf) <br>
 &nbsp;&nbsp; **2024 Dec**: [AI and OWASP-*Rob van der Veer*](assets/prez/OWASPLA_prez_2024_12.pdf) <a href="https://youtu.be/VhlF0Gpc9Ts"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
