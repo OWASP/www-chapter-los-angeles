@@ -33,7 +33,7 @@ The OWASP Los Angeles chapter was formed in 2008 by [Cassio Goldschmidt](https:/
 
 We hold meetups on the 4th Wednesday of every month, featuring great speakers on important application security topics. Join us for food, drinks, and to network with your peers and get a better understanding of challenges with application security.
 
-Support your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only $50 for the entire year! ($20 if you're a student)
+Support OWASP Projects and your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only **$50** for the entire year! ($20 if you're a student)
 
 
 ## Events
