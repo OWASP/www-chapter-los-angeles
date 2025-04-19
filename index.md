@@ -14,6 +14,10 @@ meetup-group: OWASP-Los-Angeles
 Welcome to the OWASP
 [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
+> **Note:** Some community members search for OWASP LA as “OWASPLA” (all one word). Don’t worry — you’re in the right place!
+
+<!-- Including "owaspla" here helps search engines recognize it as an alternate spelling of OWASP LA -->
+
 The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (except Nov) for dinner. We have a great security-related speaker on an appsec related topic. Join us for a great opportunity to network before and following the talk, while enjoying amazing local food and drinks.
 
 ## ![meetup](assets/images/BecomeASponsor-241x75.png)
