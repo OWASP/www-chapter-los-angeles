@@ -9,7 +9,7 @@ tags: Events-tag
 <hr>
 
 **PRESENTATIONS** <br>
-&nbsp;&nbsp; **2025 Mar**: [Enhancing Open Source Tools Using AI-An Automated DefectDojo Parser Generator-*Tracy Walker*](assets/prez/OWASPLA_prez_2025_04.pdf) <br>
+&nbsp;&nbsp; **2025 Apr**: [Enhancing Open Source Tools Using AI-An Automated DefectDojo Parser Generator-*Tracy Walker*](assets/prez/OWASPLA_prez_2025_04.pdf) <br>
 &nbsp;&nbsp; **2025 Mar**: [The Attacker’s Distributed Supercomputer: Your Browser-*Jerry Hoff*](assets/prez/OWASPLA_prez_2025_03.pdf) <br>
 &nbsp;&nbsp; **2025 Feb**: [Navigating CCPA/CPRA: Implications for AI, Data Privacy, and Federated Learning-*Mike Villegas*](assets/prez/OWASPLA_prez_2025_02.pdf) <br>
 &nbsp;&nbsp; **2025 Feb**: [Hands-on Web Security Code Review Workshop-*Louis Nyffenegger*](assets/prez/OWASPLA_prez_2025_02-1.pdf) <br>
