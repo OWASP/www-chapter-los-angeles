@@ -26,7 +26,7 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 
 [OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2025.pdf)
 
-[OWASPLA Photos](OWASPLA_prez_2025_photos.pdf)
+[OWASPLA Photos](assets/OWASPLA_prez_2025_photos.pdf)
 
 [Speaker and Sponsorship Calendar & Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf)
 
