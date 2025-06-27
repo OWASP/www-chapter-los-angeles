@@ -6,10 +6,7 @@ tab: true
 order: 1
 tags: Events-tag
 ---
-<hr>
-https://youtu.be/
-**PRESENTATIONS** <br>
-
+&nbsp;&nbsp; **2025 Jun**: [The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection-*Ted Miracco*](assets/prez/OWASPLA_prez_2025_06.pdf) <br>
 &nbsp;&nbsp; **2025 May**: [Adversarial Intelligence: Redefining Application-*Chris Arciaga*](assets/prez/OWASPLA_prez_2025_05.pdf) <br>
 &nbsp;&nbsp; **2025 Apr**: [Enhancing Open Source Tools Using AI-An Automated DefectDojo Parser Generator-*Tracy Walker*](assets/prez/OWASPLA_prez_2025_04.pdf) <br>
 &nbsp;&nbsp; **2025 Mar**: [The Attacker’s Distributed Supercomputer: Your Browser-*Jerry Hoff*](assets/prez/OWASPLA_prez_2025_03.pdf) <a href="https://youtu.be/Tm7gE4kaITQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
