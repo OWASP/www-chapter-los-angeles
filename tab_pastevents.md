@@ -7,6 +7,7 @@ order: 1
 tags: Events-tag
 ---
 Click <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/> for recording (if available) <br>
+&nbsp;&nbsp; **2025 Jun**: [The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship-*Nir Valtman*](assets/prez/OWASPLA_prez_2025_07.pdf) <br>
 &nbsp;&nbsp; **2025 Jun**: [The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection-*Ted Miracco*](assets/prez/OWASPLA_prez_2025_06.pdf) <br>
 &nbsp;&nbsp; **2025 May**: [Adversarial Intelligence: Redefining Application-*Chris Arciaga*](assets/prez/OWASPLA_prez_2025_05.pdf) <br>
 &nbsp;&nbsp; **2025 Apr**: [Enhancing Open Source Tools Using AI-An Automated DefectDojo Parser Generator-*Tracy Walker*](assets/prez/OWASPLA_prez_2025_04.pdf) <br>
