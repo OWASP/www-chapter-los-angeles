@@ -24,6 +24,7 @@ The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (
 
 Meet upwards of 70-80 potential new clients. Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. - Have a table at local chapter meeting with lots of time to meet and greet attendees - Promote your products and services - Bring a raffle prize to gather business cards and contact information
 
+
 [OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2025.pdf)
 
 [OWASPLA Photos](assets/OWASPLA_prez_2025_photos.pdf)
@@ -31,6 +32,47 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 [Speaker and Sponsorship Calendar & Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf)
 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
+
+<h2>Monthly Sponsors</h2>
+
+<!-- 2025 Mar -->
+&nbsp;&nbsp; <strong>March 2025</strong>:<br>
+[![Mend.io](assets/images/mend.png)](https://www.mend.io/)  
+<br>
+
+<!-- 2025 Apr -->
+&nbsp;&nbsp; <strong>April 2025</strong>:<br>
+[![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
+<br>
+
+<!-- 2025 May -->
+&nbsp;&nbsp; <strong>May 2025 </strong>:<br>
+[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)
+<br>
+
+<!-- 2025 Jun -->
+&nbsp;&nbsp; <strong>June 2025</strong>:<br>
+[![Approov](assets/images/Approov.png)](https://approov.io/)
+<br>
+
+<!-- 2025 Jul -->
+&nbsp;&nbsp; <strong>July 2025 Workshop</strong>:<br>
+[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
+
+&nbsp;&nbsp; <strong>July 2025</strong>:<br>
+ [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
+<br>
+
+<!-- 2025 Aug -->
+&nbsp;&nbsp; <strong>August 2025</strong>:<br>
+[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
+<br>
+
+<!-- 2025 Sep -->
+&nbsp;&nbsp; <strong>September 2025 </strong>:<br>
+[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
+<br>
+
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
@@ -41,13 +83,13 @@ We hold meetups on the 4th Wednesday of every month, featuring great speakers on
 
 Support OWASP Projects and your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only **$50** for the entire year! ($20 if you're a student)
 
-
 ## Events
 ![meetup](assets/images/meetup-logo-160x65.png)
 
 We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
 
 {% include chapter_events.html group=page.meetup-group %}
+
 
 
 

@@ -1,0 +1,27 @@
+{% assign months = site.data.sponsors | sort %}
+<section id="sponsors" class="sponsors">
+  <h2>Monthly Sponsors</h2>
+  {% for pair in months %}
+    {% assign m = pair[1] %}
+    {% if m.items and m.items.size > 0 %}
+      <h3>{{ m.month | date: "%B %Y" }}</h3>
+      <div class="sponsor-grid">
+        {% for s in m.items %}
+          <div class="sponsor">
+            {% if s.link.blurb %}<a href="{{ s.link.blurb }}" class="blurb" title="Sponsor details">{{ s.name }}</a>{% endif %}
+            <a class="logo" href="{{ s.link.home }}" target="_blank" rel="noopener">
+              <img src="{{ s.logo }}" alt="{{ s.name }} logo">
+            </a>
+          </div>
+        {% endfor %}
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
+<style>
+  .sponsor-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:1rem;align-items:center}
+  .sponsor .logo img{max-height:70px;object-fit:contain;display:block;margin:0 auto}
+  .sponsor .blurb{display:block;text-align:center;font-size:.9rem;margin-bottom:.25rem}
+  @media (prefers-color-scheme: dark) {.sponsor .blurb{color:#ddd}}
+</style>
+
