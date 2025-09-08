@@ -37,7 +37,7 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 <!-- 2025 Mar -->
 &nbsp;&nbsp; <strong>March 2025</strong> <br>
-[![Mend.io](assets/images/mend.png)](https://www.mend.io/)  {:target="_blank" rel="noopener"}
+[![Mend.io](assets/images/mend.png)](https://www.mend.io/)
 <br>
 
 <!-- 2025 Apr -->
