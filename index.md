@@ -32,6 +32,61 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 [Speaker and Sponsorship Calendar & Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf)
 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
+
+<h2>Monthly Sponsors</h2>
+
+<!-- 2025 Mar -->
+&nbsp;&nbsp; <strong>2025 Mar</strong>:
+<a href="https://www.mend.io/" target="_blank" rel="noopener" title="Mend.io">
+  <img src="/assets/images/sponsors/2025/03/mendio.png" alt="Mend.io logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 Apr -->
+&nbsp;&nbsp; <strong>2025 Apr</strong>:
+<a href="https://www.defectdojo.org/" target="_blank" rel="noopener" title="DefectDojo">
+  <img src="/assets/images/sponsors/2025/04/defectdojo.png" alt="DefectDojo logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 May -->
+&nbsp;&nbsp; <strong>2025 May</strong>:
+<a href="https://www.kodemsecurity.com/" target="_blank" rel="noopener" title="Kodem">
+  <img src="/assets/images/sponsors/2025/05/kodem.png" alt="Kodem logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 Jun -->
+&nbsp;&nbsp; <strong>2025 Jun</strong>:
+<a href="https://approov.io/" target="_blank" rel="noopener" title="Approov">
+  <img src="/assets/images/sponsors/2025/06/approov.png" alt="Approov logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 Jul -->
+&nbsp;&nbsp; <strong>2025 Jul</strong>:
+<a href="https://www.contrastsecurity.com/" target="_blank" rel="noopener" title="Contrast Security">
+  <img src="/assets/images/sponsors/2025/07/contrast-security.png" alt="Contrast Security logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<a href="https://www.arnica.io/" target="_blank" rel="noopener" title="Arnica">
+  <img src="/assets/images/sponsors/2025/07/arnica.png" alt="Arnica logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 Aug -->
+&nbsp;&nbsp; <strong>2025 Aug</strong>:
+<a href="https://www.contrastsecurity.com/" target="_blank" rel="noopener" title="Contrast Security">
+  <img src="/assets/images/sponsors/2025/08/contrast-security.png" alt="Contrast Security logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
+<!-- 2025 Sep -->
+&nbsp;&nbsp; <strong>2025 Sep</strong>:
+<a href="https://www.kodemsecurity.com/" target="_blank" rel="noopener" title="Kodem">
+  <img src="/assets/images/sponsors/2025/09/kodem.png" alt="Kodem logo" style="height:70px;vertical-align:middle;margin:0 8px;">
+</a>
+<br>
+
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
