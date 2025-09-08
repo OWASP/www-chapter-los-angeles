@@ -24,6 +24,13 @@ The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (
 
 Meet upwards of 70-80 potential new clients. Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. - Have a table at local chapter meeting with lots of time to meet and greet attendees - Promote your products and services - Bring a raffle prize to gather business cards and contact information
 
+## Events
+![meetup](assets/images/meetup-logo-160x65.png)
+
+We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
+
+{% include chapter_events.html group=page.meetup-group %}
+
 [OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2025.pdf)
 
 [OWASPLA Photos](assets/OWASPLA_prez_2025_photos.pdf)
@@ -42,12 +49,7 @@ We hold meetups on the 4th Wednesday of every month, featuring great speakers on
 Support OWASP Projects and your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only **$50** for the entire year! ($20 if you're a student)
 
 
-## Events
-![meetup](assets/images/meetup-logo-160x65.png)
 
-We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
-
-{% include chapter_events.html group=page.meetup-group %}
 
 
 
