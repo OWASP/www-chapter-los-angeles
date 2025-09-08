@@ -51,7 +51,7 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 <br>
 
 <!-- 2025 Jun -->
-&nbsp;&nbsp; <strong>une 2025</strong>:<br>
+&nbsp;&nbsp; <strong>June 2025</strong>:<br>
 [![Approov](assets/images/Approov.png)](https://approov.io/)
 <br>
 
@@ -69,7 +69,7 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 <br>
 
 <!-- 2025 Sep -->
-&nbsp;&nbsp; <strong>2025 Sep</strong>:<br>
+&nbsp;&nbsp; <strong>September 2025 </strong>:<br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
 
