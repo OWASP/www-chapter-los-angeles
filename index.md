@@ -37,55 +37,40 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 <!-- 2025 Mar -->
 &nbsp;&nbsp; <strong>March 2025</strong>:
-<a href="https://www.mend.io/" target="_blank" rel="noopener" title="Mend.io">
-  <img src="/assets/images/sponsors/2025/03/mendio.png" alt="Mend.io logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![Mend.io](assets/images/mend.png)](https://www.mend.io/)  
 <br>
 
 <!-- 2025 Apr -->
 &nbsp;&nbsp; <strong>April 2025</strong>:
-<a href="https://www.defectdojo.org/" target="_blank" rel="noopener" title="DefectDojo">
-  <img src="/assets/images/sponsors/2025/04/defectdojo.png" alt="DefectDojo logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
 <br>
 
 <!-- 2025 May -->
 &nbsp;&nbsp; <strong>May 2025 </strong>:
-<a href="https://www.kodemsecurity.com/" target="_blank" rel="noopener" title="Kodem">
-  <img src="/assets/images/sponsors/2025/05/Kodem.png" alt="Kodem logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)
 <br>
 
 <!-- 2025 Jun -->
 &nbsp;&nbsp; <strong>une 2025</strong>:
-<a href="https://approov.io/" target="_blank" rel="noopener" title="Approov">
-  <img src="/assets/images/sponsors/2025/06/Approov.png" alt="Approov logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![Approov](assets/images/Approov.png)](https://approov.io/)
 <br>
 
 <!-- 2025 Jul -->
-&nbsp;&nbsp; <strong>July 2025 Q</strong>:
-<a href="https://www.contrastsecurity.com/" target="_blank" rel="noopener" title="Contrast Security">
-  <img src="/assets/images/sponsors/2025/07/contrast.png" alt="Contrast Security logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+&nbsp;&nbsp; <strong>July 2025 Workshop</strong>:
+[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
+
 &nbsp;&nbsp; <strong>July 2025</strong>:
-<a href="https://www.arnica.io/" target="_blank" rel="noopener" title="Arnica">
-  <img src="/assets/images/sponsors/2025/07/Arnica.png" alt="Arnica logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+ [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
 <br>
 
 <!-- 2025 Aug -->
 &nbsp;&nbsp; <strong>August 2025</strong>:
-<a href="https://www.contrastsecurity.com/" target="_blank" rel="noopener" title="Contrast Security">
-  <img src="/assets/images/sponsors/2025/08/contrast-security.png" alt="Contrast Security logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
 <br>
 
 <!-- 2025 Sep -->
 &nbsp;&nbsp; <strong>2025 Sep</strong>:
-<a href="https://www.kodemsecurity.com/" target="_blank" rel="noopener" title="Kodem">
-  <img src="/assets/images/sponsors/2025/09/kodem.png" alt="Kodem logo" style="height:70px;vertical-align:middle;margin:0 8px;">
-</a>
+[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
 
 ## Participation
