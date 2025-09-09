@@ -34,55 +34,48 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 <h2>Monthly Sponsors</h2>
-<tr>
-  <td>
+
 <!-- 2025 Mar -->
 &nbsp;&nbsp; <strong>March 2025</strong> <br>
 [![Mend.io](assets/images/mend.png)](https://www.mend.io/)  
 <br>
-  </td>
+
 <!-- 2025 Apr -->
 &nbsp;&nbsp; <strong>April 2025</strong> <br>
 [![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
 <br>
   
-<td><!-- 2025 May -->
+<!-- 2025 May -->
 &nbsp;&nbsp; <strong>May 2025 </strong> <br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)
-<br></td>
+<br>
 
-</tr>
 
-  <tr><!-- 2025 Jun -->
+
+  <!-- 2025 Jun -->
 &nbsp;&nbsp; <strong>June 2025</strong> <br>
 [![Approov](assets/images/Approov.png)](https://approov.io/)
 <br>
 
-<td>
+
   <!-- 2025 Jul -->
 &nbsp;&nbsp; <strong>July 2025 Workshop</strong> <br>
 [![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
-</td>
-
 
 <td>&nbsp;&nbsp; <strong>July 2025</strong>:<br>
  [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
 <br>
-</td>
 
-  <td>
 <!-- 2025 Aug -->
 &nbsp;&nbsp; <strong>August 2025</strong>:<br>
 [![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
 <br>
-  </td>
-   <td>
+  
 <!-- 2025 Sep -->
 &nbsp;&nbsp; <strong>September 2025 </strong>:<br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
-   </td></tr>
-
+   
 
 ## Participation
 
