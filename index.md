@@ -45,13 +45,15 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 &nbsp;&nbsp; <strong>April 2025</strong> <br>
 [![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
 <br>
-
-<!-- 2025 May -->
+  
+<td><!-- 2025 May -->
 &nbsp;&nbsp; <strong>May 2025 </strong> <br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)
-<br>
+<br></td>
 
-<!-- 2025 Jun -->
+</tr>
+
+  <tr><!-- 2025 Jun -->
 &nbsp;&nbsp; <strong>June 2025</strong> <br>
 [![Approov](assets/images/Approov.png)](https://approov.io/)
 <br>
@@ -79,8 +81,9 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 &nbsp;&nbsp; <strong>September 2025 </strong>:<br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
-   </td>
-</tr>
+   </td></tr>
+
+
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
