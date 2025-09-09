@@ -56,13 +56,17 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 [![Approov](assets/images/Approov.png)](https://approov.io/)
 <br>
 
-<!-- 2025 Jul -->
+<td>
+  <!-- 2025 Jul -->
 &nbsp;&nbsp; <strong>July 2025 Workshop</strong> <br>
 [![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
+</td>
 
-&nbsp;&nbsp; <strong>July 2025</strong>:<br>
+
+<td>&nbsp;&nbsp; <strong>July 2025</strong>:<br>
  [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
 <br>
+</td>
 
   <td>
 <!-- 2025 Aug -->
@@ -75,7 +79,7 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 &nbsp;&nbsp; <strong>September 2025 </strong>:<br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
-    </td>
+   </td>
 </tr>
 ## Participation
 
