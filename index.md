@@ -34,12 +34,13 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 <h2>Monthly Sponsors</h2>
-
+<tr>
+  <td>
 <!-- 2025 Mar -->
 &nbsp;&nbsp; <strong>March 2025</strong> <br>
 [![Mend.io](assets/images/mend.png)](https://www.mend.io/)  
 <br>
-
+  </td>
 <!-- 2025 Apr -->
 &nbsp;&nbsp; <strong>April 2025</strong> <br>
 [![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
@@ -63,16 +64,19 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
  [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
 <br>
 
+  <td>
 <!-- 2025 Aug -->
 &nbsp;&nbsp; <strong>August 2025</strong>:<br>
 [![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
 <br>
-
+  </td>
+   <td>
 <!-- 2025 Sep -->
 &nbsp;&nbsp; <strong>September 2025 </strong>:<br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
-
+    </td>
+</tr>
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
