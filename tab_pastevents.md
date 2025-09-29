@@ -7,6 +7,7 @@ order: 1
 tags: Events-tag
 ---
 Click <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/> for recording (if available) <br>
+&nbsp;&nbsp; **2025 Sep**: [From input-handling flaws to crashables: Security lessons from LLM-based coding tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2025_09.pdf) <br>
 &nbsp;&nbsp; **2025 Aug**: [Conquering Castle Envy – The Flawed Mindset That’s Holding Application Security Back-*Jeff Willams*](assets/prez/OWASPLA_prez_2025_08.pdf)  <a href="https://youtu.be/x1yLZ1t6fIQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 &nbsp;&nbsp; **2025 Jul**: [The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship-*Nir Valtman*](assets/prez/OWASPLA_prez_2025_07.pdf)  <a href="https://youtu.be/rwCFBXrQSNY"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Jun**: [The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection-*Ted Miracco*](assets/prez/OWASPLA_prez_2025_06.pdf) <br>
