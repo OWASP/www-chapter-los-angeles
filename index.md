@@ -33,6 +33,11 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
+## Events
+![meetup](assets/images/meetup-logo-160x65.png)
+
+We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
+
 <h2>Monthly Sponsors</h2>
 
 <!-- 2025 Mar -->
