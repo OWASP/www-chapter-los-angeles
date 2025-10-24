@@ -7,6 +7,7 @@ order: 1
 tags: Events-tag
 ---
 
+&nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-3.pdf)  <a href="[https://youtu.be/LAMZP3aFc3Y](https://www.youtube.com/live/Z-pPXHigqJo?si=EyG2CsQpaZZt202n)" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 &nbsp;&nbsp; **2025 Oct**: [API Security Hands-on Workshop-*Dan Barahona*](assets/prez/OWASPLA_prez_2025_10-1.pdf) & [API Security Hands-on Workshop-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-2.pdf) 
 
 &nbsp;&nbsp; **2025 Sep**: [From Input-handling Flaws to Crashables: Security Lessons from LLM-based Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2025_09.pdf)  <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
