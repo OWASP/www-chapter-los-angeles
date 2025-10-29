@@ -6,8 +6,8 @@ tab: true
 order: 1
 tags: Events-tag
 ---
+&nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons-*Andrew Stiefel*](assets/prez/OWASPLA_prez_2025_10-3.pdf)  <br> 
 &nbsp;&nbsp; **2025 Oct**: [API Security Hands-on Workshop-*Dan Barahona*](assets/prez/OWASPLA_prez_2025_10-1.pdf) & [API Security Hands-on Workshop-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-2.pdf)  <br> 
-&nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-3.pdf)  <br> 
 &nbsp;&nbsp; **2025 Sep**: [From Input-handling Flaws to Crashables: Security Lessons from LLM-based Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2025_09.pdf)  <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Aug**: [Conquering Castle Envy – The Flawed Mindset That’s Holding Application Security Back-*Jeff Willams*](assets/prez/OWASPLA_prez_2025_08.pdf)  <a href="https://youtu.be/x1yLZ1t6fIQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 &nbsp;&nbsp; **2025 Jul**: [The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship-*Nir Valtman*](assets/prez/OWASPLA_prez_2025_07.pdf)  <a href="https://youtu.be/rwCFBXrQSNY"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
