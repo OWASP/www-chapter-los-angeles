@@ -6,6 +6,7 @@ tab: true
 order: 1
 tags: Events-tag
 ---
+&nbsp;&nbsp; **2025 Dec**: [The AI Cybersecurity Handbook-*Caroline Wong*](assets/prez/OWASPLA_prez_2025_12.pdf)  <a href="https://youtu.be/bD5lw1bbT5o"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Nov**: [Offensive Security without AI, now with AI-*Toshiro Nagata*](assets/prez/OWASPLA_prez_2025_11.pdf) <a href="https://www.youtube.com/@OWASPLosAngeles" target="_blank" > <img src="assets/images/YouTube_Icon_ComingSoon.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Oct**: [Diving in with Vibe Coding-*Zoe Braiterman*](assets/prez/OWASPLA_prez_2025_10-4.pdf) <a href="https://www.youtube.com/@OWASPLosAngeles" target="_blank" > <img src="assets/images/YouTube_Icon_ComingSoon.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons-*Andrew Stiefel*](assets/prez/OWASPLA_prez_2025_10-3.pdf) <a href="https://www.youtube.com/@OWASPLosAngeles" target="_blank" > <img src="assets/images/YouTube_Icon_ComingSoon.png" alt="YouTube"/></a> <br>
