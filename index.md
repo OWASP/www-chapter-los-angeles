@@ -40,41 +40,8 @@ We are on Meetup. For the list of latest events please join our community [www.m
 
 <h2>Monthly Sponsors</h2>
 
-<!-- 2025 Mar -->
-&nbsp;&nbsp; <strong>March 2025</strong> <br>
-[![Mend.io](assets/images/mend.png)](https://www.mend.io/)
-<br>
-
-<!-- 2025 Apr -->
-&nbsp;&nbsp; <strong>April 2025</strong> <br>
-[![DefectDojo](assets/images/Defectdojo.png)](https://www.defectdojo.org/)  
-<br>
-
-<!-- 2025 May -->
-&nbsp;&nbsp; <strong>May 2025 </strong> <br>
-[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)
-<br>
-
-<!-- 2025 Jun -->
-&nbsp;&nbsp; <strong>June 2025</strong> <br>
-[![Approov](assets/images/Approov.png)](https://approov.io/)
-<br>
-
-<!-- 2025 Jul -->
-&nbsp;&nbsp; <strong>July 2025 Workshop</strong> <br>
-[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
-
-&nbsp;&nbsp; <strong>July 2025</strong> <br>
- [![Arnica](assets/images/Arnica.png)](https://www.arnica.io/) 
-<br>
-
-<!-- 2025 Aug -->
-&nbsp;&nbsp; <strong>August 2025</strong> <br>
-[![Contrast Security](assets/images/contrast.png)](https://www.contrastsecurity.com/)
-<br>
-
-<!-- 2025 Sep -->
-&nbsp;&nbsp; <strong>September 2025 </strong> <br>
+<!-- 2026 January -->
+&nbsp;&nbsp; <strong>January  2026 </strong> <br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
 
