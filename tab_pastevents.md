@@ -7,7 +7,7 @@ order: 1
 tags: Events-tag
 ---
 
-&nbsp;&nbsp; **2026 Jan**: [When Agents Execute: RCE Paths in LLM-Powered Coding Tools-*Mahesh Babu*](coming Soon)  <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+&nbsp;&nbsp; **2026 Jan**: [When Agents Execute: RCE Paths in LLM-Powered Coding Tools-*Mahesh Babu*](PDf coming Soon)   <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 
 
 
