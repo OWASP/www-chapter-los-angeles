@@ -6,6 +6,10 @@ tab: true
 order: 1
 tags: Events-tag
 ---
+
+
+&nbsp;&nbsp; **2026 Feb**: Make Attackers Cry: Outsmart them with Deception-*Rick Horwitz* (PDf coming Soon) <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK](https://youtu.be/9ZgZUOZGb8A" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
 &nbsp;&nbsp; **2026 Feb**: Hands-on workshopDefending the New Perimeter: Identity Threat Detection, Investigation, and Response-*James Rulison* (PDf coming Soon) <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
 &nbsp;&nbsp; **2026 Jan**: [When Agents Execute: RCE Paths in LLM-Powered Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2026_01.pdf)   <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
