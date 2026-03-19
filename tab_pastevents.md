@@ -7,6 +7,7 @@ order: 1
 tags: Events-tag
 ---
 
+&nbsp;&nbsp; **2026 Mar**: [Virtual Event Fulfilling your LLM Deployment dreams-*Aaron Ansari*] (PDf coming Soon)  <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK](https://youtu.be/awG1ode58Js" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
 &nbsp;&nbsp; **2026 Feb**: Make Attackers Cry: Outsmart them with Deception-*Rick Horwitz* (PDf coming Soon) <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK](https://youtu.be/9ZgZUOZGb8A" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
