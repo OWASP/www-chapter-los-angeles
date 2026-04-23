@@ -7,6 +7,9 @@ order: 1
 tags: Events-tag
 ---
 
+
+&nbsp;&nbsp; **2026 Apr**: [Finding Broken Logic and Auth with AI-Powered Multimodal Detection-* Erik Buchanan*](assets/prez/OWASPLA_prez_2026_04_01.pdf)  <a href="https://youtu.be/8AGi_zgTtkM" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
 &nbsp;&nbsp; **2026 Apr**: [One Thousand and One AI Prevented CVEs: Vibe Coding a Whole New Supply Chain Defense-* Brandon Wu*](assets/prez/OWASPLA_prez_2026_04.pdf)  <a href="https://youtu.be/hO6vvAO2N-E" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
 &nbsp;&nbsp; **2026 Mar**: [Virtual Event Fulfilling your LLM Deployment dreams-*Aaron Ansari*] <a href="https://youtu.be/awG1ode58Js" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
