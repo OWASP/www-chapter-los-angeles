@@ -1,0 +1,30 @@
+community:
+  - name: chapter-losangeles
+    platform: slack
+    url: https://owasp.slack.com/archives/C4B5U4S2V
+leaders:
+  - name: Maryam Tehrani
+    email: maryam.tehrani@owasp.org
+  - name: Martin Espinoza
+    email: martin.espinoza@owasp.org
+  - name: Edmond Momartin
+    email: edmond.momartin@owasp.org
+    github: emomartin-owasp
+location:
+  country: United States
+  country_code: US
+  region: California
+  city: Los Angeles
+  latitude: 34.0536909
+  longitude: -118.242766
+meetup_group: OWASP-Los-Angeles
+name: OWASP Los Angeles
+repositories:
+  - name: www-chapter-los-angeles
+    url: https://github.com/OWASP/www-chapter-los-angeles
+    description: OWASP Foundation Web Repository
+tags:
+  - Events-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-los-angeles
