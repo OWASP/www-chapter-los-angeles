@@ -37,39 +37,50 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
 <h2>Monthly Sponsors</h2>
 
-## Platinum (Hybrid Sponsor – Virtual + In-Person)
-&nbsp;&nbsp; <strong>April 2026 </strong> <br>
+## Monthly Sponsors
+
+---
+
+### Platinum (Hybrid Sponsor – Virtual + In-Person)
+
+<strong>April 2026</strong><br>
 <a href="https://semgrep.dev">
-  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px;">
+  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; margin-top:8px;">
 </a>
-<br>
 
-## Gold (In-Person Sponsor)
-&nbsp;&nbsp; <strong>January 2026 </strong> <br>
+---
+
+### Gold (In-Person Sponsor)
+
+<strong>January 2026</strong><br>
 <a href="https://www.kodemsecurity.com/">
-  <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px;">
+  <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px; margin-top:8px;">
 </a>
+
 <br>
 
-&nbsp;&nbsp; <strong>February 2026 </strong> <br>
+<strong>February 2026</strong><br>
 <a href="https://www.fastly.com/">
-  <img src="assets/images/fastly.png" alt="Fastly" style="height:60px;">
+  <img src="assets/images/fastly.png" alt="Fastly" style="height:60px; margin-top:8px;">
 </a>
+
 <br>
 
-&nbsp;&nbsp; <strong>May 2026 </strong> <br>
+<strong>May 2026</strong><br>
 <a href="https://www.guidepointsecurity.com/">
-  <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px;">
+  <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px; margin-top:8px;">
 </a>
-<br>
 
-## Silver (Virtual Sponsor)
-&nbsp;&nbsp; <strong>March 2026 </strong> <br>
+---
+
+### Silver (Virtual Sponsor)
+
+<strong>March 2026</strong><br>
 <a href="https://www.pro-answers.com/">
-  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:100px;">
+  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:100px; margin-top:8px;">
 </a>
-<br>
 
+---
 
 ## Participation
 
