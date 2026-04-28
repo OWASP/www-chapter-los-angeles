@@ -38,7 +38,7 @@ We are on Luma. For the list of latest events please join our community https://
 <h2>Monthly Sponsors</h2>
 
 ## Silver (Virtual Sponsor)
-Semgrep
+
 
 ## Gold (In-Person Sponsor)
 &nbsp;&nbsp; <strong>January  2026 </strong> <br>
@@ -46,7 +46,7 @@ Semgrep
 <br>
 
 ## Platinum (Hybrid Sponsor – Virtual + In-Person)
-
+Semgrep
 
 ## Participation
 
