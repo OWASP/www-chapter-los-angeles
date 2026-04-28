@@ -37,10 +37,16 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
 <h2>Monthly Sponsors</h2>
 
-<!-- 2026 January -->
+## Silver (Virtual Sponsor)
+Semgrep
+
+## Gold (In-Person Sponsor)
 &nbsp;&nbsp; <strong>January  2026 </strong> <br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
+
+## Platinum (Hybrid Sponsor – Virtual + In-Person)
+
 
 ## Participation
 
