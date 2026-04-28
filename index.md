@@ -53,7 +53,7 @@ We are on Luma. For the list of latest events please join our community https://
 
 ## Platinum (Hybrid Sponsor – Virtual + In-Person)
 &nbsp;&nbsp; <strong>April 2026 </strong> <br>
-[![Semgrep](assets/images/Semgrep.png)](https://semgrep.dev)
+[![Semgrep](assets/images/Semgreplogo.png)](https://semgrep.dev)
 <br>
 ## Participation
 
