@@ -44,53 +44,49 @@ We are on Luma. For the list of latest events and to register please join our co
 
 
 ## Monthly Sponsors
----
-
 
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
+
 <strong>April 2026</strong><br>
 <a href="https://semgrep.dev">
   <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:40px; margin-top:8px;">
 </a>
 
----
+<br><br>
 
 ### Gold (In-Person Sponsor)
 
 <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; margin-top:10px;">
-
   <div style="text-align:center;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">January 2026</div>
     <a href="https://www.kodemsecurity.com/">
       <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px;">
     </a>
   </div>
-
   <div style="text-align:center;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">February 2026</div>
     <a href="https://www.fastly.com/">
       <img src="assets/images/fastly.png" alt="Fastly" style="height:60px;">
     </a>
   </div>
-
   <div style="text-align:center;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">May 2026</div>
     <a href="https://www.guidepointsecurity.com/">
       <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px;">
     </a>
   </div>
-
 </div>
 
----
+<br><br>
 
 ### Silver (Virtual Sponsor)
+
 <strong>March 2026</strong><br>
 <a href="https://www.pro-answers.com/">
-  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:80px; margin-top:8px;">
+  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:120px; margin-top:8px;">
 </a>
 
----
+<br><br>
 
 ## Participation
 
