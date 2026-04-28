@@ -11,18 +11,23 @@ Luma-group: OWASP-Los-Angeles
 ---
 ## Welcome
 ![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
-Welcome to the OWASP
-[LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
-> **Note:** Some community members search for OWASP LA as “OWASPLA” (all one word). Don’t worry — you’re in the right place!
+Welcome to the OWASP [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
+> **Note:** Some community members search for OWASP LA as "OWASPLA" (all one word). Don't worry — you're in the right place!
 <!-- Including "owaspla" here helps search engines recognize it as an alternate spelling of OWASP LA -->
 
-The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (except Nov) for dinner. We have a great security-related speaker on an appsec related topic. Join us for a great opportunity to network before and following the talk, while enjoying amazing local food and drinks.
+The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (except November) for dinner. We feature a great security related speaker on an AppSec topic. Join us for a great opportunity to network before and after the talk, while enjoying amazing local food and drinks.
 
 ## ![meetup](assets/images/BecomeASponsor-241x75.png)
 
-Meet upwards of 70-80 potential new clients. Be recognized as a local supporter by posting your company logo on the local chapter page and on our Meetup site - Have your marketing write-up included in e-mail blasts sent prior to a monthly meeting. - Have a table at local chapter meeting with lots of time to meet and greet attendees - Promote your products and services - Bring a raffle prize to gather business cards and contact information
+Meet upwards of 70–80 potential new clients. Be recognized as a local supporter by:
+
+- Posting your company logo on the local chapter page and on our Luma event listings
+- Having your marketing write-up included in email blasts sent prior to monthly meetings
+- Having a table at the local chapter meeting with lots of time to meet and greet attendees
+- Promoting your products and services
+- Bringing a raffle prize to gather business cards and contact information
 
 
 [OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2026.pdf)
@@ -34,7 +39,8 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 ## Events
-We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
+
+We are on Luma. For the list of latest events and to register please join our community [lu.ma/owaspla](https://lu.ma/owaspla)
 
 
 ## Monthly Sponsors
