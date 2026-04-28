@@ -46,7 +46,8 @@ We are on Luma. For the list of latest events please join our community https://
 <br>
 
 ## Platinum (Hybrid Sponsor – Virtual + In-Person)
-Semgrep
+## Platinum (Hybrid Sponsor – Virtual + In-Person)
+[![Semgrep](assets/images/Semgrep.png)](https://semgrep.dev)
 
 ## Participation
 
