@@ -56,11 +56,9 @@ We hold meetups on the 4th Wednesday of every month, featuring great speakers on
 Support OWASP Projects and your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only **$50** for the entire year! ($20 if you're a student)
 
 ## Events
-![meetup](assets/images/meetup-logo-160x65.png)
+##![Luma](assets/image/)
 
-We are on Meetup. For the list of latest events please join our community [www.meetup.com/OWASP-Los-Angeles](https://www.meetup.com/OWASP-Los-Angeles)
-
-{% include chapter_events.html group=page.meetup-group %}
+We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
 
 
 
