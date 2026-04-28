@@ -66,7 +66,7 @@ We are on Luma. For the list of latest events please join our community https://
 ## Silver (Virtual Sponsor)
 &nbsp;&nbsp; <strong>March 2026 </strong> <br>
 <a href="https://www.pro-answers.com/">
-  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:60px;">
+  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:100px;">
 </a>
 <br>
 
