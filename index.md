@@ -38,17 +38,23 @@ We are on Luma. For the list of latest events please join our community https://
 <h2>Monthly Sponsors</h2>
 
 ## Silver (Virtual Sponsor)
-
+&nbsp;&nbsp; <strong>March  2026 </strong> <br>
+[![Answer Strategic Consulting That Delivers Results](assets/images/AnswerConsulting.jpg)](https://www.pro-answers.com/)
+<br>
 
 ## Gold (In-Person Sponsor)
-&nbsp;&nbsp; <strong>January  2026 </strong> <br>
+&nbsp;&nbsp; <strong>January 2026 </strong> <br>
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
 
-## Platinum (Hybrid Sponsor – Virtual + In-Person)
-## Platinum (Hybrid Sponsor – Virtual + In-Person)
-[![Semgrep](assets/images/Semgrep.png)](https://semgrep.dev)
+&nbsp;&nbsp; <strong>May 2026 </strong> <br>
+[![Guide Point Security](assets/images/GuidePoint.jpg)]([https://www.kodemsecurity.com/](https://www.guidepointsecurity.com/))  
+<br>
 
+## Platinum (Hybrid Sponsor – Virtual + In-Person)
+&nbsp;&nbsp; <strong>April 2026 </strong> <br>
+[![Semgrep](assets/images/Semgrep.png)](https://semgrep.dev)
+<br>
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
