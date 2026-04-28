@@ -7,7 +7,7 @@ level: 0
 
 region: North America
 country:  USA
-meetup-group: OWASP-Los-Angeles
+Luma-group: OWASP-Los-Angeles
 ---
 ## Welcome
 ![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
