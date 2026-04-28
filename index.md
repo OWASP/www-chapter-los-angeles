@@ -40,28 +40,35 @@ We are on Luma. For the list of latest events please join our community https://
 ## Platinum (Hybrid Sponsor – Virtual + In-Person)
 &nbsp;&nbsp; <strong>April 2026 </strong> <br>
 <a href="https://semgrep.dev">
-  <img src="assets/images/Semgreplogo.png" alt="Semgrep" width="200">
+  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px;">
 </a>
 <br>
 
 ## Gold (In-Person Sponsor)
 &nbsp;&nbsp; <strong>January 2026 </strong> <br>
-[![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
+<a href="https://www.kodemsecurity.com/">
+  <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px;">
+</a>
 <br>
 
 &nbsp;&nbsp; <strong>February 2026 </strong> <br>
-[![Fastly](assets/images/fastly.png)](https://www.fastly.com/)  
+<a href="https://www.fastly.com/">
+  <img src="assets/images/fastly.png" alt="Fastly" style="height:60px;">
+</a>
 <br>
 
 &nbsp;&nbsp; <strong>May 2026 </strong> <br>
-[![Guide Point Security](assets/images/GuidePoint.jpg)]([https://www.kodemsecurity.com/](https://www.guidepointsecurity.com/))  
+<a href="https://www.guidepointsecurity.com/">
+  <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px;">
+</a>
 <br>
 
 ## Silver (Virtual Sponsor)
-&nbsp;&nbsp; <strong>March  2026 </strong> <br>
-[![Answer Strategic Consulting That Delivers Results](assets/images/AnswerConsulting.jpg)](https://www.pro-answers.com/)
+&nbsp;&nbsp; <strong>March 2026 </strong> <br>
+<a href="https://www.pro-answers.com/">
+  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:60px;">
+</a>
 <br>
-
 
 
 ## Participation
