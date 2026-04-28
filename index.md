@@ -42,39 +42,42 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 We are on Luma. For the list of latest events and to register please join our community [lu.ma/owaspla](https://lu.ma/owaspla)
 
-
 ## Monthly Sponsors
 
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
 <strong>April 2026</strong><br>
 <a href="https://semgrep.dev">
-  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:40px; margin-top:8px;">
+  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:50px; margin-top:8px;">
 </a>
 
 <br><br>
 
 ### Gold (In-Person Sponsor)
 
-<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; margin-top:10px;">
-  <div style="text-align:center;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">January 2026</div>
+<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px;">
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">January 2026</div>
     <a href="https://www.kodemsecurity.com/">
-      <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px;">
+      <img src="assets/images/Kodem.png" alt="Kodem" style="height:50px; width:150px; object-fit:contain;">
     </a>
   </div>
-  <div style="text-align:center;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">February 2026</div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">February 2026</div>
     <a href="https://www.fastly.com/">
-      <img src="assets/images/fastly.png" alt="Fastly" style="height:60px;">
+      <img src="assets/images/fastly.png" alt="Fastly" style="height:50px; width:150px; object-fit:contain;">
     </a>
   </div>
-  <div style="text-align:center;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:6px;">May 2026</div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
     <a href="https://www.guidepointsecurity.com/">
-      <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px;">
+      <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:50px; width:150px; object-fit:contain;">
     </a>
   </div>
+
 </div>
 
 <br><br>
@@ -87,7 +90,6 @@ We are on Luma. For the list of latest events and to register please join our co
 </a>
 
 <br><br>
-
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
