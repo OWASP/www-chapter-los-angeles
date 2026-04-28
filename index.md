@@ -14,7 +14,7 @@ Luma-group: OWASP-Los-Angeles
 
 Welcome to the OWASP [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
-> **Note:** Some community members search for OWASP LA as "OWASPLA" (all one word). Don't worry — you're in the right place!
+> **Note:** Some community members search for OWASP LA as "OWASPLA" (all one word). Don't worry you're in the right place!
 <!-- Including "owaspla" here helps search engines recognize it as an alternate spelling of OWASP LA -->
 
 The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (except November) for dinner. We feature a great security related speaker on an AppSec topic. Join us for a great opportunity to network before and after the talk, while enjoying amazing local food and drinks.
@@ -24,7 +24,7 @@ The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (
 Meet upwards of 70–80 potential new clients. Be recognized as a local supporter by:
 
 - Posting your company logo on the local chapter page and on our Luma event listings
-- Having your marketing write-up included in email blasts sent prior to monthly meetings
+- Having your marketing write up included in email blasts sent prior to monthly meetings
 - Having a table at the local chapter meeting with lots of time to meet and greet attendees
 - Promoting your products and services
 - Bringing a raffle prize to gather business cards and contact information
