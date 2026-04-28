@@ -34,8 +34,6 @@ Meet upwards of 70-80 potential new clients. Be recognized as a local supporter 
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 ## Events
-#![meetup](assets/images/meetup-logo-160x65.png)
-Luma 
 We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
 <h2>Monthly Sponsors</h2>
 
@@ -54,10 +52,6 @@ We hold meetups on the 4th Wednesday of every month, featuring great speakers on
 
 Support OWASP Projects and your LA Chapter by becoming an OWASP Member TODAY [owasp.org/membership](https://owasp.org/membership): only **$50** for the entire year! ($20 if you're a student)
 
-## Events
-##![Luma](assets/image/)
-
-We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
 
 
 
