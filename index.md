@@ -35,15 +35,16 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 
 ## Events
 We are on Luma. For the list of latest events please join our community https://luma.com/owaspla 
-<h2>Monthly Sponsors</h2>
+
 
 ## Monthly Sponsors
 ---
 
+
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 <strong>April 2026</strong><br>
 <a href="https://semgrep.dev">
-  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; margin-top:8px;">
+  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:40px; margin-top:8px;">
 </a>
 
 ---
