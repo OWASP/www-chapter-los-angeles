@@ -47,6 +47,10 @@ We are on Luma. For the list of latest events please join our community https://
 [![Kodem](assets/images/Kodem.png)](https://www.kodemsecurity.com/)  
 <br>
 
+&nbsp;&nbsp; <strong>January 2026 </strong> <br>
+[![Fastly](assets/images/fastly.png)](https://www.fastly.com/)  
+<br>
+
 &nbsp;&nbsp; <strong>May 2026 </strong> <br>
 [![Guide Point Security](assets/images/GuidePoint.jpg)]([https://www.kodemsecurity.com/](https://www.guidepointsecurity.com/))  
 <br>
