@@ -78,18 +78,32 @@ We are on Luma. For the list of latest events and to register please join our co
     </a>
   </div>
 
+  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <a href="https://www.oligo.security/">
+      <img src="assets/images/oligologo.png" alt="OLIGO Security" style="height:50px; width:150px; object-fit:contain;">
+    </a>
+  </div>
+
 </div>
 
 <br><br>
 
 ### Silver (Virtual Sponsor)
 
-<strong>March 2026</strong><br>
-<a href="https://www.pro-answers.com/">
-  <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:120px; margin-top:8px;">
-</a>
+<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px;">
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <a href="https://opensec.com/">
+      <img src="assets/images/open-seclogo.png" alt="OpenSec" style="height:50px; width:150px; object-fit:contain;">
+    </a>
+  </div>
+
+</div>
 
 <br><br>
+
 ## Participation
 
 OWASP is a not-for-profit, worldwide organization focused on improving the security of all software. Our mission is to improve software security through Open Source initiatives and community education. Everyone is free to participate in OWASP and all of our materials are available under a free and open software license.
