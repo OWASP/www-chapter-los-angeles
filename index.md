@@ -46,7 +46,7 @@ We are on Luma. For the list of latest events and to register please join our co
 
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
-<div style="display:flex; flex-wrap:wrap; gap:600px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
+<div style="display:flex; flex-wrap:wrap; gap:60px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">April 2026</div>
