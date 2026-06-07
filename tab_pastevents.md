@@ -6,9 +6,31 @@ tab: true
 order: 1
 tags: Events-tag
 ---
-Click <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/> for recording (if available) <br>
 
-&nbsp;&nbsp; **2025 Oct**: [API Security Hands-on Workshop-*Dan Barahona*](assets/prez/OWASPLA_prez_2025_10-1.pdf) & [API Security Hands-on Workshop-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-2.pdf) 
+&nbsp;&nbsp; **2026 May**: [AI Got Hands: Why your Threat Model is about to Change-* Giacomo Daneri*] PFD coming soon  <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 May**: [Breaking AI as of today-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/sPL5qVxDqcw?si=j0ZstIO1jjzVn7yZ" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Apr**: [Finding Broken Logic and Auth with AI-Powered Multimodal Detection-* Erik Buchanan*](assets/prez/OWASPLA_prez_2026_04_01.pdf)  <a href="https://youtu.be/8AGi_zgTtkM" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Apr**: [One Thousand and One AI Prevented CVEs: Vibe Coding a Whole New Supply Chain Defense-* Brandon Wu*](assets/prez/OWASPLA_prez_2026_04.pdf)  <a href="https://youtu.be/hO6vvAO2N-E" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Mar**: [Virtual Event Fulfilling your LLM Deployment dreams-*Aaron Ansari*] <a href="https://youtu.be/awG1ode58Js" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Feb**: Make Attackers Cry: Outsmart them with Deception-*Rick Horwitz* <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK](https://youtu.be/9ZgZUOZGb8A" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Feb**: [Hands-on WorkshopDefending the New Perimeter: Identity Threat Detention,Detection, Investigation, and Response-*James Rulison*](assets/prez/OWASPLA_prez_2026_02.pdf)  <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 Jan**: [When Agents Execute: RCE Paths in LLM-Powered Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2026_01.pdf)   <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+
+
+
+&nbsp;&nbsp; **2025 Dec**: [The AI Cybersecurity Handbook-*Caroline Wong*](assets/prez/OWASPLA_prez_2025_12.pdf)  <a href="https://youtu.be/bD5lw1bbT5o"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+&nbsp;&nbsp; **2025 Nov**: [Offensive Security without AI, now with AI-*Toshiro Nagata*](assets/prez/OWASPLA_prez_2025_11.pdf) <a href="https://youtu.be/ecXD1jEe2jU" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+&nbsp;&nbsp; **2025 Oct**: [Diving in with Vibe Coding-*Zoe Braiterman*](assets/prez/OWASPLA_prez_2025_10-4.pdf) <a href="https://youtu.be/mrJbupkPU34" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+&nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons-*Andrew Stiefel*](assets/prez/OWASPLA_prez_2025_10-3.pdf) <a href="https://youtu.be/0Sye_PsJpeI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
+&nbsp;&nbsp; **2025 Oct**: [API Security Hands-on Workshop-*Dan Barahona*](assets/prez/OWASPLA_prez_2025_10-1.pdf) & [API Security Hands-on Workshop-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-2.pdf) <a href="https://youtu.be/cQXI1MuCUAc?si=Dk5YG-9D5prin4DO" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+&nbsp;&nbsp; **2025 Sep**: [From Input-handling Flaws to Crashables: Security Lessons from LLM-based Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2025_09.pdf)  <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Aug**: [Conquering Castle Envy – The Flawed Mindset That’s Holding Application Security Back-*Jeff Willams*](assets/prez/OWASPLA_prez_2025_08.pdf)  <a href="https://youtu.be/x1yLZ1t6fIQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 &nbsp;&nbsp; **2025 Jul**: [The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship-*Nir Valtman*](assets/prez/OWASPLA_prez_2025_07.pdf)  <a href="https://youtu.be/rwCFBXrQSNY"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
 &nbsp;&nbsp; **2025 Jun**: [The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection-*Ted Miracco*](assets/prez/OWASPLA_prez_2025_06.pdf) <br>
@@ -18,6 +40,8 @@ Click <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/> for record
 &nbsp;&nbsp; **2025 Feb**: [Navigating CCPA/CPRA: Implications for AI, Data Privacy, and Federated Learning-*Mike Villegas*](assets/prez/OWASPLA_prez_2025_02.pdf) <br>
 &nbsp;&nbsp; **2025 Feb**: [Hands-on Web Security Code Review Workshop-*Louis Nyffenegger*](assets/prez/OWASPLA_prez_2025_02-1.pdf) <br>
 &nbsp;&nbsp; **2025 Jan**: [Adding API Security to your DevSecOps Toolbelt-*Scott Bly*](assets/prez/OWASPLA_prez_2025_01.pdf) <br>
+
+
 &nbsp;&nbsp; **2024 Dec**: [AI and OWASP-*Rob van der Veer*](assets/prez/OWASPLA_prez_2024_12.pdf) <a href="https://youtu.be/VhlF0Gpc9Ts"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2024 Nov**: [State of Pentesting 2024-*Caroline Wong*](assets/prez/OWASPLA_prez_2024_11.pdf) <a href="https://youtu.be/wixNN9iQd3g?t=1167"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
 &nbsp;&nbsp; **2024 Nov**: [OWASP SAMM Intro-*Esfandiar Behrouz*](assets/prez/OWASPLA_prez_2024_11-1.pdf) <a href="https://youtu.be/wixNN9iQd3g"><img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
@@ -40,3 +64,7 @@ Click <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/> for record
 
 **ALL Meetings (Topic, Abstract, Speakers, etc.)** <br>
 &nbsp;&nbsp; [https://www.meetup.com/owasp-los-angeles](https://www.meetup.com/owasp-los-angeles) <br>
+
+**Prior to April 2022** <br>
+&nbsp;&nbsp; [OWSAP LA YouTube Channel](https://www.youtube.com/OWASPLosAngeles)
+
