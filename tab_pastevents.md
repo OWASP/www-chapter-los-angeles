@@ -7,7 +7,9 @@ order: 1
 tags: Events-tag
 ---
 
-&nbsp;&nbsp; **2026 May**: [Breaking AI as of today-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/8AGi_zgTtkM" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+&nbsp;&nbsp; **2026 May**: [AI Got Hands: Why your Threat Model is about to Change-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+
+&nbsp;&nbsp; **2026 May**: [Breaking AI as of today-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/sPL5qVxDqcw?si=j0ZstIO1jjzVn7yZ" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
 &nbsp;&nbsp; **2026 Apr**: [Finding Broken Logic and Auth with AI-Powered Multimodal Detection-* Erik Buchanan*](assets/prez/OWASPLA_prez_2026_04_01.pdf)  <a href="https://youtu.be/8AGi_zgTtkM" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
