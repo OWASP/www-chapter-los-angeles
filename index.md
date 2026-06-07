@@ -10,7 +10,7 @@ country:  USA
 Luma-group: OWASP-Los-Angeles
 ---
 ## Welcome
-![OWASP LA](assets/images/SunsetOWASPLA2020banner1000x200.jpg)
+![OWASP LA](assets/images/lacity.jpg)
 
 Welcome to the OWASP [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
 
