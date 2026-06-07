@@ -81,6 +81,35 @@ Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp
 <!-- Events section: directs visitors to the OWASP LA Luma community page -->
 We are on Luma. For the list of latest events and to register please join our community [lu.ma/owaspla](https://lu.ma/owaspla)
 
+### Upcoming June Workshop
+<iframe
+  src="https://luma.com/embed/event/evt-3yRfTRG328ZaOfX/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allow="fullscreen; payment"
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
+
+### Upcoming June In-Person Meeting
+<iframe
+  src="https://luma.com/embed/event/evt-3gbNKevdVXH4S70/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allow="fullscreen; payment"
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
+
+
+
+
+
 <!-- Monthly Sponsors section -->
 ## Monthly Sponsors
 
