@@ -78,36 +78,43 @@ Luma-group: OWASP-Los-Angeles
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 ## Events
-<!-- Events section: directs visitors to the OWASP LA Luma community page -->
-We are on Luma. For the list of latest events and to register please join our community [lu.ma/owaspla](https://lu.ma/owaspla)
+<!-- Events section: directs visitors to the OWASP LA Lu.ma community page -->
 
-### Upcoming June Workshop
-<iframe
-  src="https://luma.com/embed/event/evt-3yRfTRG328ZaOfX/simple"
-  width="100"
-  height="720"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+We are on Lu.ma. For the latest OWASP Los Angeles events and registration, please join our community: [lu.ma/owaspla](https://lu.ma/owaspla)
 
+<div style="display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; margin-top:20px;">
 
-### Upcoming June In-Person Meeting
-<iframe
-  src="https://luma.com/embed/event/evt-3gbNKevdVXH4S70/simple"
-  width="100"
-  height="720"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+  <div style="flex:1 1 480px; min-width:420px; max-width:600px;">
+    <h3>Upcoming June Workshop</h3>
 
+    <iframe
+      src="https://luma.com/embed/event/evt-3yRfTRG328ZaOfX/simple"
+      width="600"
+      height="650"
+      frameborder="0"
+      style="width:100%; border: 1px solid #bfcbda88; border-radius: 4px;"
+      allow="fullscreen; payment"
+      aria-hidden="false"
+      tabindex="0"
+    ></iframe>
+  </div>
 
+  <div style="flex:1 1 480px; min-width:420px; max-width:600px;">
+    <h3>Upcoming June In-Person Meeting</h3>
 
+    <iframe
+      src="https://luma.com/embed/event/evt-3gbNKevdVXH4S70/simple"
+      width="600"
+      height="650"
+      frameborder="0"
+      style="width:100%; border: 1px solid #bfcbda88; border-radius: 4px;"
+      allow="fullscreen; payment"
+      aria-hidden="false"
+      tabindex="0"
+    ></iframe>
+  </div>
+
+</div>
 
 
 <!-- Monthly Sponsors section -->
