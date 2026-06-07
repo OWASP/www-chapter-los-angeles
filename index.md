@@ -175,7 +175,7 @@ We are on Lu.ma. For the latest OWASP Los Angeles events and registration, pleas
     </a>
   </div>
 
-    <!-- June 2026 Gold Sponsor: Oligo Security -->
+   <!-- June 2026 Gold Sponsor: Oligo Security -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
     <a href="https://www.oligo.security/">
@@ -183,6 +183,14 @@ We are on Lu.ma. For the latest OWASP Los Angeles events and registration, pleas
     </a>
   </div>
 
+   <!-- June 2026 Gold Sponsor: MindFort -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <a href="https://www.mindfort.ai//">
+      <img src="assets/images/MindFort.png" alt="MindFort" style="height:100px; width:170px; object-fit:contain;">
+    </a>
+  </div>
+  
 </div>
 
 
