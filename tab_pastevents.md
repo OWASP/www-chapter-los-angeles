@@ -7,7 +7,7 @@ order: 1
 tags: Events-tag
 ---
 
-&nbsp;&nbsp; **2026 May**: [AI Got Hands: Why your Threat Model is about to Change-* Giacomo Daneri*] PFD coming soon  <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+&nbsp;&nbsp; **2026 May**: [AI Got Hands: Why your Threat Model is about to Change-* Russell Tait*] PFD coming soon  <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
 &nbsp;&nbsp; **2026 May**: [Breaking AI as of today-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/sPL5qVxDqcw?si=j0ZstIO1jjzVn7yZ" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
 
