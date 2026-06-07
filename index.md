@@ -78,34 +78,44 @@ Luma-group: OWASP-Los-Angeles
 Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
 
 ## Events
-
+<!-- Events section: directs visitors to the OWASP LA Luma community page -->
 We are on Luma. For the list of latest events and to register please join our community [lu.ma/owaspla](https://lu.ma/owaspla)
 
+<!-- Monthly Sponsors section -->
 ## Monthly Sponsors
 
+
+<!-- Platinum sponsors: hybrid sponsorship includes virtual and in-person visibility -->
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
+
+<!-- Sponsor logo container: flex layout keeps logos responsive and aligned -->
 <div style="display:flex; flex-wrap:wrap; gap:60px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
+  <!-- April 2026 Platinum Sponsor: Semgrep -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">April 2026</div>
     <a href="https://semgrep.dev">
       <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
-  
+
+    <!-- May 2026 Platinum Sponsor: OpenSec -->
    <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
     <a href="https://opensec.com/">
       <img src="assets/images/Open-SecLogo.png" alt="OpenSec" style="height:100px; width:170px; object-fit:contain;">
     </a>
   </div>
 </div>
 
+<!-- Gold sponsors: in-person sponsorship visibility -->
 ### Gold (In-Person Sponsor)
 
+<!-- Gold sponsor logo container -->
 <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
+  <!-- January 2026 Gold Sponsor: Kodem -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">January 2026</div>
     <a href="https://www.kodemsecurity.com/">
@@ -113,20 +123,23 @@ We are on Luma. For the list of latest events and to register please join our co
     </a>
   </div>
 
+  <!-- February 2026 Gold Sponsor: Fastly -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">February 2026</div>
     <a href="https://www.fastly.com/">
       <img src="assets/images/fastly.png" alt="Fastly" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
-
+  
+<!-- May 2026 Gold Sponsor: GuidePoint Security -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
     <a href="https://www.guidepointsecurity.com/">
       <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
-  
+
+    <!-- June 2026 Gold Sponsor: Oligo Security -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
     <a href="https://www.oligo.security/">
@@ -136,10 +149,14 @@ We are on Luma. For the list of latest events and to register please join our co
 
 </div>
 
+
+<!-- Silver sponsors: virtual sponsorship visibility -->
 ### Silver (Virtual Sponsor)
 
+<!-- Silver sponsor logo container -->
 <div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
+  <!-- March 2026 Silver Sponsor: Answer Strategic Consulting -->
   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">March 2026</div>
     <a href="https://www.pro-answers.com/">
