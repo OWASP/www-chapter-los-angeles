@@ -9,25 +9,64 @@ region: North America
 country:  USA
 Luma-group: OWASP-Los-Angeles
 ---
-## Welcome
+
 ![OWASP LA](assets/images/lacity.png)
+<h2>Welcome</h2>
 
-Welcome to the OWASP [LA](https://en.wikipedia.org/wiki/Los_Angeles) Chapter home page.
+<p>
+  Welcome to the OWASP
+  <a href="https://en.wikipedia.org/wiki/Los_Angeles" target="_blank" rel="noopener noreferrer">LA</a>
+  Chapter home page.
+</p>
 
-> **Note:** Some community members search for OWASP LA as "OWASPLA" (all one word). Don't worry you're in the right place!
+<blockquote>
+  <strong>Note:</strong> Some community members search for OWASP LA as "OWASPLA" all one word.
+  Don't worry, you're in the right place!
+</blockquote>
+
 <!-- Including "owaspla" here helps search engines recognize it as an alternate spelling of OWASP LA -->
 
-The OWASP Los Angeles chapter typically meets on the 4th Wednesday every month (except November) for dinner. We feature a great security related speaker on an AppSec topic. Join us for a great opportunity to network before and after the talk, while enjoying amazing local food and drinks.
+<p>
+  The OWASP Los Angeles chapter brings together security professionals, developers, students,
+  researchers, and community members interested in application security, API security, AI security,
+  cloud security, and secure software development.
+</p>
 
-## ![meetup](assets/images/BecomeASponsor-241x75.png)
+<p>
+  We typically host monthly AppSec community events, including in-person meetings, virtual talks,
+  and quarterly hands-on workshops.
+</p>
 
-Meet upwards of 70–80 potential new clients. Be recognized as a local supporter by:
+<p>
+  Our in-person meetings are usually held on the 4th Wednesday of each month, except November.
+  These events often include dinner, networking, and a security-related speaker presenting on an
+  AppSec topic.
+</p>
 
-- Posting your company logo on the local chapter page and on our Luma event listings
-- Having your marketing write up included in email blasts sent prior to monthly meetings
-- Having a table at the local chapter meeting with lots of time to meet and greet attendees
-- Promoting your products and services
-- Bringing a raffle prize to gather business cards and contact information
+<p>
+  Join us for an opportunity to learn, network, and connect with the local cybersecurity community.
+</p>
+
+<h2>
+  <img src="assets/images/BecomeASponsor-241x75.png" alt="Become a Sponsor" />
+</h2>
+
+<p>
+  Support the OWASP LA community and connect with 70–80 potential attendees, including security
+  professionals, developers, students, and technology leaders.
+</p>
+
+<p>
+  Sponsors may be recognized through:
+</p>
+
+<ul>
+  <li>Posting your company logo on the local chapter page and on our Luma event listings</li>
+  <li>Having your marketing write-up included in email blasts sent prior to monthly meetings</li>
+  <li>Having a table at local chapter meetings, when available</li>
+  <li>Promoting your products and services</li>
+  <li>Bringing a raffle prize to engage with attendees</li>
+</ul>
 
 
 [OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2026.pdf)
