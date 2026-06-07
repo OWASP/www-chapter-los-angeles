@@ -84,8 +84,8 @@ We are on Luma. For the list of latest events and to register please join our co
 ### Upcoming June Workshop
 <iframe
   src="https://luma.com/embed/event/evt-3yRfTRG328ZaOfX/simple"
-  width="600"
-  height="450"
+  width="100"
+  height="720"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allow="fullscreen; payment"
@@ -97,8 +97,8 @@ We are on Luma. For the list of latest events and to register please join our co
 ### Upcoming June In-Person Meeting
 <iframe
   src="https://luma.com/embed/event/evt-3gbNKevdVXH4S70/simple"
-  width="600"
-  height="450"
+  width="100"
+  height="720"
   frameborder="0"
   style="border: 1px solid #bfcbda88; border-radius: 4px;"
   allow="fullscreen; payment"
