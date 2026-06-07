@@ -54,7 +54,13 @@ We are on Luma. For the list of latest events and to register please join our co
       <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
-
+  
+   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <a href="https://opensec.com/">
+      <img src="assets/images/Open-SecLogo.png" alt="OpenSec" style="height:60px; width:170px; object-fit:contain;">
+    </a>
+  </div>
 </div>
 
 ### Gold (In-Person Sponsor)
@@ -79,6 +85,13 @@ We are on Luma. For the list of latest events and to register please join our co
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
     <a href="https://www.guidepointsecurity.com/">
       <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px; width:170px; object-fit:contain;">
+    </a>
+  </div>
+  
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
+    <a href="https://www.oligo.security/">
+      <img src="assets/images/oligologo.png" alt="OLIGO Security" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
 
