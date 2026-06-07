@@ -46,57 +46,52 @@ We are on Luma. For the list of latest events and to register please join our co
 
 ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
-<strong>April 2026</strong><br>
-<a href="https://semgrep.dev">
-  <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:50px; margin-top:8px;">
-</a>
+<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
-<br><br>
-
-### Gold (In-Person Sponsor)
-
-<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px;">
-
-  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">January 2026</div>
-    <a href="https://www.kodemsecurity.com/">
-      <img src="assets/images/Kodem.png" alt="Kodem" style="height:50px; width:150px; object-fit:contain;">
-    </a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">February 2026</div>
-    <a href="https://www.fastly.com/">
-      <img src="assets/images/fastly.png" alt="Fastly" style="height:50px; width:150px; object-fit:contain;">
-    </a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
-    <a href="https://www.guidepointsecurity.com/">
-      <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:50px; width:150px; object-fit:contain;">
-    </a>
-  </div>
-
-  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
-    <a href="https://www.oligo.security/">
-      <img src="assets/images/oligologo.png" alt="OLIGO Security" style="height:50px; width:150px; object-fit:contain;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">April 2026</div>
+    <a href="https://semgrep.dev">
+      <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
 
 </div>
 
-<br><br>
+### Gold (In-Person Sponsor)
+
+<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">January 2026</div>
+    <a href="https://www.kodemsecurity.com/">
+      <img src="assets/images/Kodem.png" alt="Kodem" style="height:60px; width:170px; object-fit:contain;">
+    </a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">February 2026</div>
+    <a href="https://www.fastly.com/">
+      <img src="assets/images/fastly.png" alt="Fastly" style="height:60px; width:170px; object-fit:contain;">
+    </a>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
+    <a href="https://www.guidepointsecurity.com/">
+      <img src="assets/images/GuidePoint.jpg" alt="GuidePoint Security" style="height:60px; width:170px; object-fit:contain;">
+    </a>
+  </div>
+
+</div>
 
 ### Silver (Virtual Sponsor)
 
-<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px;">
+<div style="display:flex; flex-wrap:wrap; gap:40px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
 
-  <div style="display:flex; flex-direction:column; align-items:center; width:150px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">June 2026</div>
-    <a href="https://opensec.com/">
-      <img src="assets/images/open-seclogo.png" alt="OpenSec" style="height:50px; width:150px; object-fit:contain;">
+  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
+    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">March 2026</div>
+    <a href="https://www.pro-answers.com/">
+      <img src="assets/images/AnswerConsulting.jpg" alt="Answer Strategic Consulting" style="height:60px; width:170px; object-fit:contain;">
     </a>
   </div>
 
