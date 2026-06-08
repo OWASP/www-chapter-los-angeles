@@ -6,42 +6,269 @@ tab: true
 order: 1
 tags: Events-tag
 ---
+<hr>
+<!-- 2026-->
+<h2>2026</h2>
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">May 2026</div>
+    <span style="font-weight:bold;">AI Got Hands: Why your Threat Model is about to Change</span>
+    <div style="margin-top:8px; font-style:italic;">Russell Tait</div>
+    <div style="margin-top:6px; font-size:12px; color:#999;">PDF coming soon</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">May 2026</div>
+    <a href="assets/prez/OWASPLA_prez_2026_05_18.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Breaking AI as of Today
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Giacomo Daneri</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/sPL5qVxDqcw?si=j0ZstIO1jjzVn7yZ" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">April 2026</div>
+    <a href="assets/prez/OWASPLA_prez_2026_04_01.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Finding Broken Logic and Auth with AI-Powered Multimodal Detection
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Erik Buchanan</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/8AGi_zgTtkM" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">April 2026</div>
+    <a href="assets/prez/OWASPLA_prez_2026_04.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      One Thousand and One AI Prevented CVEs: Vibe Coding a Whole New Supply Chain Defense
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Brandon Wu</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/hO6vvAO2N-E" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">March 2026</div>
+    <span style="font-weight:bold;">Virtual Event: Fulfilling your LLM Deployment Dreams</span>
+    <div style="margin-top:8px; font-style:italic;">Aaron Ansari</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/awG1ode58Js" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">February 2026</div>
+    <span style="font-weight:bold;">Make Attackers Cry: Outsmart Them with Deception</span>
+    <div style="margin-top:8px; font-style:italic;">Rick Horwitz</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/9ZgZUOZGb8A" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">February 2026</div>
+    <a href="assets/prez/OWASPLA_prez_2026_02.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Hands-on Workshop: Defending the New Perimeter – Identity Threat Detection, Investigation, and Response
+    </a>
+    <div style="margin-top:8px; font-style:italic;">James Rulison</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">January 2026</div>
+    <a href="assets/prez/OWASPLA_prez_2026_01.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      When Agents Execute: RCE Paths in LLM-Powered Coding Tools
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Mahesh Babu</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+</div>
 
-&nbsp;&nbsp; **2026 May**: [AI Got Hands: Why your Threat Model is about to Change-* Russell Tait*] PFD coming soon  <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
+<hr>
+<!-- 2025-->
+<h2>2025</h2>
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">December 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_12.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      The AI Cybersecurity Handbook
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Caroline Wong</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/bD5lw1bbT5o" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">November 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_11.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Offensive Security without AI, now with AI
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Toshiro Nagata</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/ecXD1jEe2jU" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">October 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_10-4.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Diving in with Vibe Coding
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Zoe Braiterman</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/mrJbupkPU34" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">October 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_10-3.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Secure Vibe Coding: 3 Key Lessons
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Andrew Stiefel</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/0Sye_PsJpeI" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">October 2025</div>
+    <div style="font-weight:bold;">API Security Hands-on Workshop</div>
+    <div style="margin-top:6px; font-size:13px;">
+      <a href="assets/prez/OWASPLA_prez_2025_10-1.pdf" target="_blank" style="text-decoration:none;">Slides – Dan Barahona</a><br>
+      <a href="assets/prez/OWASPLA_prez_2025_10-2.pdf" target="_blank" style="text-decoration:none;">Slides – Jess Freeman</a>
+    </div>
+    <div style="margin-top:8px; font-style:italic;">Dan Barahona &amp; Jess Freeman</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/cQXI1MuCUAc?si=Dk5YG-9D5prin4DO" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">September 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_09.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      From Input-Handling Flaws to Crashables: Security Lessons from LLM-based Coding Tools
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Mahesh Babu</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_08.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Conquering Castle Envy – The Flawed Mindset That's Holding Application Security Back
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Jeff Williams</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/x1yLZ1t6fIQ" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">July 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_07.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Nir Valtman</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/rwCFBXrQSNY" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_06.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Ted Miracco</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">May 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_05.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Adversarial Intelligence: Redefining Application Security
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Chris Arciaga</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">April 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_04.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Enhancing Open Source Tools Using AI: An Automated DefectDojo Parser Generator
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Tracy Walker</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">March 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_03.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      The Attacker's Distributed Supercomputer: Your Browser
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Jerry Hoff</div>
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/Tm7gE4kaITQ" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">February 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_02.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Navigating CCPA/CPRA: Implications for AI, Data Privacy, and Federated Learning
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Mike Villegas</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">February 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_02-1.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Hands-on Web Security Code Review Workshop
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Louis Nyffenegger</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">January 2025</div>
+    <a href="assets/prez/OWASPLA_prez_2025_01.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Adding API Security to your DevSecOps Toolbelt
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Scott Bly</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
+</div>
 
-&nbsp;&nbsp; **2026 May**: [Breaking AI as of today-* Giacomo Daneri*](assets/prez/OWASPLA_prez_2026_05_18.pdf)  <a href="https://youtu.be/sPL5qVxDqcw?si=j0ZstIO1jjzVn7yZ" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Apr**: [Finding Broken Logic and Auth with AI-Powered Multimodal Detection-* Erik Buchanan*](assets/prez/OWASPLA_prez_2026_04_01.pdf)  <a href="https://youtu.be/8AGi_zgTtkM" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Apr**: [One Thousand and One AI Prevented CVEs: Vibe Coding a Whole New Supply Chain Defense-* Brandon Wu*](assets/prez/OWASPLA_prez_2026_04.pdf)  <a href="https://youtu.be/hO6vvAO2N-E" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Mar**: [Virtual Event Fulfilling your LLM Deployment dreams-*Aaron Ansari*] <a href="https://youtu.be/awG1ode58Js" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Feb**: Make Attackers Cry: Outsmart them with Deception-*Rick Horwitz* <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK](https://youtu.be/9ZgZUOZGb8A" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Feb**: [Hands-on WorkshopDefending the New Perimeter: Identity Threat Detention,Detection, Investigation, and Response-*James Rulison*](assets/prez/OWASPLA_prez_2026_02.pdf)  <a href="https://youtu.be/d_otz5xDAj8?si=R2AgxeUV1Gs387JK" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-
-&nbsp;&nbsp; **2026 Jan**: [When Agents Execute: RCE Paths in LLM-Powered Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2026_01.pdf)   <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-
-
-
-&nbsp;&nbsp; **2025 Dec**: [The AI Cybersecurity Handbook-*Caroline Wong*](assets/prez/OWASPLA_prez_2025_12.pdf)  <a href="https://youtu.be/bD5lw1bbT5o"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Nov**: [Offensive Security without AI, now with AI-*Toshiro Nagata*](assets/prez/OWASPLA_prez_2025_11.pdf) <a href="https://youtu.be/ecXD1jEe2jU" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Oct**: [Diving in with Vibe Coding-*Zoe Braiterman*](assets/prez/OWASPLA_prez_2025_10-4.pdf) <a href="https://youtu.be/mrJbupkPU34" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Oct**: [Secure Vibe Coding: 3 Key Lessons-*Andrew Stiefel*](assets/prez/OWASPLA_prez_2025_10-3.pdf) <a href="https://youtu.be/0Sye_PsJpeI" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Oct**: [API Security Hands-on Workshop-*Dan Barahona*](assets/prez/OWASPLA_prez_2025_10-1.pdf) & [API Security Hands-on Workshop-*Jess Freeman*](assets/prez/OWASPLA_prez_2025_10-2.pdf) <a href="https://youtu.be/cQXI1MuCUAc?si=Dk5YG-9D5prin4DO" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-&nbsp;&nbsp; **2025 Sep**: [From Input-handling Flaws to Crashables: Security Lessons from LLM-based Coding Tools-*Mahesh Babu*](assets/prez/OWASPLA_prez_2025_09.pdf)  <a href="https://youtu.be/LAMZP3aFc3Y" target="_blank" > <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Aug**: [Conquering Castle Envy – The Flawed Mindset That’s Holding Application Security Back-*Jeff Willams*](assets/prez/OWASPLA_prez_2025_08.pdf)  <a href="https://youtu.be/x1yLZ1t6fIQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br> 
-&nbsp;&nbsp; **2025 Jul**: [The Carrot vs. The Stick: Making a Positive Impact on the Security + Developer Relationship-*Nir Valtman*](assets/prez/OWASPLA_prez_2025_07.pdf)  <a href="https://youtu.be/rwCFBXrQSNY"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a> <br>
-&nbsp;&nbsp; **2025 Jun**: [The End of Mobile Security Complacency: DMA, Antitrust, and the Rise of Real API Protection-*Ted Miracco*](assets/prez/OWASPLA_prez_2025_06.pdf) <br>
-&nbsp;&nbsp; **2025 May**: [Adversarial Intelligence: Redefining Application-*Chris Arciaga*](assets/prez/OWASPLA_prez_2025_05.pdf) <br>
-&nbsp;&nbsp; **2025 Apr**: [Enhancing Open Source Tools Using AI-An Automated DefectDojo Parser Generator-*Tracy Walker*](assets/prez/OWASPLA_prez_2025_04.pdf) <br>
-&nbsp;&nbsp; **2025 Mar**: [The Attacker’s Distributed Supercomputer: Your Browser-*Jerry Hoff*](assets/prez/OWASPLA_prez_2025_03.pdf) <a href="https://youtu.be/Tm7gE4kaITQ"> <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/></a>  <br>
-&nbsp;&nbsp; **2025 Feb**: [Navigating CCPA/CPRA: Implications for AI, Data Privacy, and Federated Learning-*Mike Villegas*](assets/prez/OWASPLA_prez_2025_02.pdf) <br>
-&nbsp;&nbsp; **2025 Feb**: [Hands-on Web Security Code Review Workshop-*Louis Nyffenegger*](assets/prez/OWASPLA_prez_2025_02-1.pdf) <br>
-&nbsp;&nbsp; **2025 Jan**: [Adding API Security to your DevSecOps Toolbelt-*Scott Bly*](assets/prez/OWASPLA_prez_2025_01.pdf) <br>
-
-
+<hr>
+<!-- 2024-->
 <h2>2024</h2>
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
   <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
@@ -175,7 +402,7 @@ tags: Events-tag
 </div>
 
 <hr>
-
+<!-- 2023-->
 <h2>2023</h2>
 
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
