@@ -79,13 +79,35 @@ Luma-group: OWASP-Los-Angeles
 </ul>
 
 
-[OWASP LA Sponsorship Prospectus v1.4](assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2026.pdf)
+<!-- ============================================================
+     SPONSORSHIP LINKS SECTION
+     Key resources for prospective and current sponsors.
+     ============================================================ -->
+<!-- Resource links styled as buttons for visual clarity -->
+<div style="display:flex; flex-wrap:wrap; gap:12px; margin-top:15px; margin-bottom:20px;">
 
-[OWASPLA Photos](assets/OWASPLA_prez_2025_photos.pdf)
+  <!-- Sponsorship prospectus PDF – update version number and file name each year -->
+  <a href="assets/OWASP-LA-Sponsorship-Prospectus-v1.4-2026.pdf" target="_blank"
+     style="display:inline-block; padding:10px 16px; background:#005a8e; color:#fff; border-radius:6px; text-decoration:none; font-size:14px; font-weight:bold;">
+    📄 Sponsorship Prospectus
+  </a>
 
-[Speaker and Sponsorship Calendar & Availability](https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf)
+  <!-- Chapter event photos PDF -->
+  <a href="assets/OWASPLA_prez_2025_photos.pdf" target="_blank"
+     style="display:inline-block; padding:10px 16px; background:#005a8e; color:#fff; border-radius:6px; text-decoration:none; font-size:14px; font-weight:bold;">
+    📸 Event Photos
+  </a>
 
-Contact us for detail via [sponsorship.la@owasp.org](mailto:sponsorship.la@owasp.org)
+  <!-- Live Google Sheet exported as PDF showing speaker and sponsor availability -->
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf" target="_blank"
+     style="display:inline-block; padding:10px 16px; background:#005a8e; color:#fff; border-radius:6px; text-decoration:none; font-size:14px; font-weight:bold;">
+    📅 Speaker &amp; Sponsorship Calendar
+  </a>
+
+</div>
+
+<!-- Sponsorship inquiry email – kept as plain text for visibility -->
+<p>Contact us for details via <a href="mailto:sponsorship.la@owasp.org">sponsorship.la@owasp.org</a></p>
 
 ## Events
 <!-- Events section: directs visitors to the OWASP LA Lu.ma community page -->
