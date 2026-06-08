@@ -11,6 +11,10 @@ Luma-group: OWASP-Los-Angeles
 ---
 
 ![OWASP LA](assets/images/lacity.png)
+<!-- ============================================================
+     WELCOME SECTION
+     Main intro for the OWASP LA chapter home page.
+     ============================================================ -->
 <h2>Welcome</h2>
 
 <p>
@@ -19,12 +23,12 @@ Luma-group: OWASP-Los-Angeles
   Chapter home page.
 </p>
 
+<!-- Blockquote used for the OWASPLA note; also helps search engines
+     recognize "OWASPLA" as an alternate spelling of OWASP LA -->
 <blockquote>
   <strong>Note:</strong> Some community members search for OWASP LA as "OWASPLA" all one word.
   Don't worry, you're in the right place!
 </blockquote>
-
-<!-- Including "owaspla" here helps search engines recognize it as an alternate spelling of OWASP LA -->
 
 <p>
   The OWASP Los Angeles chapter brings together security professionals, developers, students,
@@ -47,20 +51,26 @@ Luma-group: OWASP-Los-Angeles
   Join us for an opportunity to learn, network, and connect with the local cybersecurity community.
 </p>
 
-<h2>
+<!-- ============================================================
+     SPONSORSHIP SECTION
+ 
+     ============================================================ -->
+<h2>Become a Sponsor</h2>
+
+<!-- Sponsor banner image displayed below the heading -->
+<p>
   <img src="assets/images/BecomeASponsor-241x75.png" alt="Become a Sponsor" />
-</h2>
+</p>
 
 <p>
   Support the OWASP LA community and connect with 70–80 potential attendees, including security
   professionals, developers, students, and technology leaders.
 </p>
 
-<p>
-  Sponsors may be recognized through:
-</p>
+<p>Sponsors may be recognized through:</p>
 
 <ul>
+  <!-- Each benefit is a separate list item for clarity and readability -->
   <li>Posting your company logo on the local chapter page and on our Luma event listings</li>
   <li>Having your marketing write-up included in email blasts sent prior to monthly meetings</li>
   <li>Having a table at local chapter meetings, when available</li>
