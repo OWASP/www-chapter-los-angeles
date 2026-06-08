@@ -98,11 +98,11 @@ Luma-group: OWASP-Los-Angeles
     📸 Event Photos
   </a>
 
-  <!-- Live Google Sheet exported as PDF showing speaker and sponsor availability -->
-  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf" target="_blank"
+<!-- Live Google Sheet exported as PDF showing speaker and sponsor availability -->
+  <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8IYQkXRLIihDegB7-WHpU4F5mDWqDH8jCWcOEg7Sugb1J9uiXBS0o0Ny4j8_KDwbx6nBaCsNGZbak/pub?gid=1956382240&single=true&output=pdf" target="_blank" download="OWASPLA-Speaker-Sponsor-Calendar-2026.pdf"
      style="display:inline-block; padding:10px 16px; background:#005a8e; color:#fff; border-radius:6px; text-decoration:none; font-size:14px; font-weight:bold;">
-    📅 Speaker &amp; Sponsorship Calendar
-  </a>
+  📅 Speaker &amp; Sponsorship Calendar
+</a>
 
 </div>
 
