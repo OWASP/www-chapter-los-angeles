@@ -171,7 +171,7 @@ We are on Lu.ma. For the latest OWASP Los Angeles events and registration, pleas
     <!-- May 2026 Platinum Sponsor: OpenSec -->
    <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
     <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
-    <a href="https://opensec.com/">
+    <a href="https://www.open-sec.com/">
       <img src="assets/images/Open-SecLogo.png" alt="OpenSec" style="height:100px; width:170px; object-fit:contain;">
     </a>
   </div>
