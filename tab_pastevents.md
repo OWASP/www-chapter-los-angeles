@@ -58,33 +58,48 @@ tags: Events-tag
 &nbsp;&nbsp; **2024 Jan**: [Privacy-by-Design-for-Web-Developers-*Miguel (Mike) O. Villegas*](assets/prez/OWASPLA_prez_2024_01.pdf) <br>
 
 
-&nbsp;&nbsp; <strong>2023 Dec:</strong>
-<a href="https://youtu.be/K1DKMD2vSPs" target="_blank">Making the OWASP Top 10 2024</a>
-— <em>Andrew van der Stock</em>
-<a href="https://www.youtube.com/watch?v=K1DKMD2vSPs" target="_blank">
-  <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
-</a>
-<br>
+<h2>2023</h2>
 
-&nbsp;&nbsp; <strong>2023 Nov:</strong>
-<a href="assets/prez/OWASPLA_prez_2023_11-1.pdf" target="_blank">Security in Industrial Control Systems</a>
-— <em>Veer Singh</em>
-<br>
+<div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
 
-&nbsp;&nbsp; <strong>2023 Aug:</strong>
-<a href="assets/prez/OWASPLA_prez_2023_06.pdf" target="_blank">AppSec 2.0: Reimagine AppSec with Runtime Analysis</a>
-— <em>Miguel “Mike” O. Villegas</em>
-<br>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">December 2023</div>
+    <a href="https://youtu.be/K1DKMD2vSPs" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Making the OWASP Top 10 2024
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Andrew van der Stock</div>
+    <div style="margin-top:12px;">
+      <a href="https://www.youtube.com/watch?v=K1DKMD2vSPs" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
 
-&nbsp;&nbsp; <strong>2023 May:</strong>
-<a href="assets/prez/OWASPLA_prez_2023_05.pdf" target="_blank">Tactical Security: Improving AppSec Coverage with Fewer Resources</a>
-— <em>Rich Newman</em>
-<br>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">November 2023</div>
+    <a href="assets/prez/OWASPLA_prez_2023_11-1.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Security in Industrial Control Systems
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Veer Singh</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
 
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2023</div>
+    <a href="assets/prez/OWASPLA_prez_2023_06.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      AppSec 2.0: Reimagine AppSec with Runtime Analysis
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Miguel “Mike” O. Villegas</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
 
-**ALL Meetings (Topic, Abstract, Speakers, etc.)** <br>
-&nbsp;&nbsp; [https://luma.com/owaspla](https://luma.com/owaspla) <br>
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">May 2023</div>
+    <a href="assets/prez/OWASPLA_prez_2023_05.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Tactical Security: Improving AppSec Coverage with Fewer Resources
+    </a>
+    <div style="margin-top:8px; font-style:italic;">Rich Newman</div>
+    <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
+  </div>
 
-**Prior to April 2022** <br>
-&nbsp;&nbsp; [OWSAP LA YouTube Channel](https://www.youtube.com/OWASPLosAngeles)
-
+</div>
