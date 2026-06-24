@@ -112,7 +112,7 @@ Luma-group: OWASP-Los-Angeles
 ## Events
 <!-- Events section: directs visitors to the OWASP LA Lu.ma community page -->
 
-We are on Lu.ma. For the latest OWASP Los Angeles events and registration, please join our community: [lu.ma/owaspla](https://lu.ma/owaspla)
+For the latest OWASP Los Angeles events, workshops, and registration links, follow our Luma community at lu.ma/owaspla. Following the calendar allows you to receive event notifications, RSVP to upcoming events, and stay informed about new chapter activities.
 
 <div style="display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; margin-top:20px;">
 
