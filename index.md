@@ -117,33 +117,19 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
 <div style="display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; margin-top:20px;">
 
   <div style="flex:1 1 480px; min-width:420px; max-width:600px;">
-    <h3>Upcoming June Workshop</h3>
+    
+       <h3>Upcoming July In-Person Meeting</h3>
 
     <iframe
-      src="https://luma.com/embed/event/evt-3yRfTRG328ZaOfX/simple"
-      width="600"
-      height="650"
-      frameborder="0"
-      style="width:100%; border: 1px solid #bfcbda88; border-radius: 4px;"
-      allow="fullscreen; payment"
-      aria-hidden="false"
-      tabindex="0"
-    ></iframe>
-  </div>
-
-  <div style="flex:1 1 480px; min-width:420px; max-width:600px;">
-    <h3>Upcoming June In-Person Meeting</h3>
-
-    <iframe
-      src="https://luma.com/embed/event/evt-3gbNKevdVXH4S70/simple"
-      width="600"
-      height="650"
-      frameborder="0"
-      style="width:100%; border: 1px solid #bfcbda88; border-radius: 4px;"
-      allow="fullscreen; payment"
-      aria-hidden="false"
-      tabindex="0"
-    ></iframe>
+  src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
+  width="600"
+  height="450"
+  frameborder="0"
+  style="border: 1px solid #bfcbda88; border-radius: 4px;"
+  allow="fullscreen; payment"
+  aria-hidden="false"
+  tabindex="0"
+></iframe>
   </div>
 
 </div>
