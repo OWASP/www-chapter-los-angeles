@@ -114,19 +114,38 @@ Luma-group: OWASP-Los-Angeles
 
 For the latest OWASP Los Angeles events, workshops, and registration links, follow our Luma community at https://luma.com/owaspla Following the calendar allows you to receive event notifications, RSVP to upcoming events, and stay informed about new chapter activities.
 
+<!-- =========================================================
+     OWASP LOS ANGELES EVENT SECTION
+     Desktop: two events per row
+     Mobile: one event per row
+========================================================== -->
+
 <style>
-  /* Intro paragraph spacing and readability */
+  /* Makes width calculations consistent for this event section */
+  .owasp-events-section,
+  .owasp-events-section * {
+    box-sizing: border-box;
+  }
+
+  /* Main container for the entire event section */
+  .owasp-events-section {
+    width: 100%;
+  }
+
+  /* Introductory paragraph above the events */
   .owasp-events-intro {
-    margin-bottom: 24px;
+    margin: 0 0 24px;
     line-height: 1.6;
   }
 
-  /* Main event grid: two columns on desktop */
+  /* Two-column event layout for desktop and tablet screens */
   .owasp-events-grid {
     display: grid;
+
+    /* Creates two equal-width columns */
     grid-template-columns: repeat(2, minmax(0, 1fr));
 
-    /* Vertical gap: 28px; horizontal gap: 24px */
+    /* First value is vertical spacing; second is horizontal spacing */
     gap: 28px 24px;
 
     width: 100%;
@@ -134,46 +153,44 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
     align-items: start;
   }
 
-  /* Individual event card container */
+  /* Individual event container */
   .owasp-event-card {
     display: flex;
     flex-direction: column;
     width: 100%;
 
-    /* Prevents grid items from causing horizontal scrolling */
+    /* Prevents grid columns from overflowing horizontally */
     min-width: 0;
   }
 
-  /* Event title styling */
+  /* Event title */
   .owasp-event-card h3 {
     margin: 0 0 12px;
 
-    /* Keeps event embeds aligned when titles use different line counts */
-    min-height: 54px;
+    /* Keeps both embeds in each row vertically aligned */
+    min-height: 50px;
 
     font-size: 18px;
     line-height: 1.35;
   }
 
-  /* Responsive container around each Luma iframe */
+  /* Outer container controlling each Luma embed's size */
   .owasp-event-embed {
+    position: relative;
     width: 100%;
 
-    /* Gives every event embed the same desktop height */
-    height: 320px;
+    /* Keeps every desktop embed the same shape and size */
+    aspect-ratio: 4 / 3;
 
-    /* Hides iframe content that extends outside the container */
     overflow: hidden;
-
     border: 1px solid #bfcbda88;
     border-radius: 6px;
-
-    /* Includes the border inside the declared width and height */
-    box-sizing: border-box;
   }
 
-  /* Luma iframe styling */
+  /* Makes the Luma iframe fill its container */
   .owasp-event-embed iframe {
+    position: absolute;
+    inset: 0;
     display: block;
     width: 100%;
     height: 100%;
@@ -182,99 +199,124 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
 
   /* Mobile layout for screens 767px wide or smaller */
   @media screen and (max-width: 767px) {
-
-    /* Changes the event grid from two columns to one column */
+    /* Changes the layout from two columns to one */
     .owasp-events-grid {
       grid-template-columns: 1fr;
-      gap: 24px;
+      gap: 26px;
     }
 
-    /* Removes the fixed title height on mobile */
+    /* Titles do not need equal fixed heights on mobile */
     .owasp-event-card h3 {
       min-height: 0;
       font-size: 18px;
     }
 
-    /* Makes the iframe height responsive on smaller screens */
+    /* Gives the Luma registration content more vertical room */
     .owasp-event-embed {
-      height: clamp(300px, 90vw, 450px);
+      aspect-ratio: auto;
+      height: clamp(360px, 110vw, 500px);
     }
   }
 </style>
 
-  <!-- Regional Cyber Range CTF -->
-  <section class="owasp-event-card">
-    <h3>
-      Regional Cyber Range CTF: Hands-On Web Application Security with Shadow Bank
-    </h3>
+<!-- Start of the complete event section -->
+<div class="owasp-events-section">
 
-    <div class="owasp-event-embed">
-      <iframe
-        src="https://luma.com/embed/event/evt-ogaohv7ClEn9B3N/simple"
-        allow="fullscreen; payment"
-        aria-hidden="false"
-        tabindex="0"
-        loading="lazy"
-        title="Regional Cyber Range CTF registration"
-      ></iframe>
-    </div>
-  </section>
+  <!-- Introduction and Luma community link -->
+  <p class="owasp-events-intro">
+    For the latest OWASP Los Angeles events, workshops, and registration links,
+    follow our Luma community at
+    <a
+      href="https://luma.com/owaspla"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      https://luma.com/owaspla
+    </a>.
+    Following the calendar allows you to receive event notifications, RSVP to
+    upcoming events, and stay informed about new chapter activities.
+  </p>
 
-  <!-- Second Event -->
-  <section class="owasp-event-card">
-    <h3>Upcoming OWASP Los Angeles Event</h3>
+  <!-- IMPORTANT: This opening grid container was missing -->
+  <div class="owasp-events-grid">
 
-    <div class="owasp-event-embed">
-      <iframe
-        src="https://luma.com/embed/event/evt-DQdqMr2FJSmFEa4/simple"
-        allow="fullscreen; payment"
-        aria-hidden="false"
-        tabindex="0"
-        loading="lazy"
-        title="OWASP Los Angeles event registration"
-      ></iframe>
-    </div>
-  </section>
+    <!-- Event 1: Regional Cyber Range CTF -->
+    <section class="owasp-event-card">
+      <h3>
+        Regional Cyber Range CTF: Hands-On Web Application Security with Shadow Bank
+      </h3>
 
-  <!-- Data Con LA 2026 -->
-  <section class="owasp-event-card">
-    <h3>Data Con LA 2026: SoCal’s Longest-Running Data Conference</h3>
+      <div class="owasp-event-embed">
+        <iframe
+          src="https://luma.com/embed/event/evt-ogaohv7ClEn9B3N/simple"
+          allow="fullscreen; payment"
+          aria-hidden="false"
+          tabindex="0"
+          loading="lazy"
+          title="Regional Cyber Range CTF registration"
+        ></iframe>
+      </div>
+    </section>
 
-    <div class="owasp-event-embed">
-      <iframe
-        src="https://luma.com/embed/event/evt-GeIj8Lz1HOTfwnK/simple"
-        allow="fullscreen; payment"
-        aria-hidden="false"
-        tabindex="0"
-        loading="lazy"
-        title="Data Con LA 2026 registration"
-      ></iframe>
-    </div>
-  </section>
+    <!-- Event 2: August OWASP Los Angeles Meeting -->
+    <section class="owasp-event-card">
+      <h3>
+        Massive Coverage: How AI Is Changing the Future of OffSec
+      </h3>
 
-  <!-- August Meeting -->
-  <section class="owasp-event-card">
-    <h3>Upcoming August Meeting</h3>
+      <div class="owasp-event-embed">
+        <iframe
+          src="https://luma.com/embed/event/evt-DQdqMr2FJSmFEa4/simple"
+          allow="fullscreen; payment"
+          aria-hidden="false"
+          tabindex="0"
+          loading="lazy"
+          title="Massive Coverage OWASP Los Angeles event registration"
+        ></iframe>
+      </div>
+    </section>
 
-    <div class="owasp-event-embed">
-      <iframe
-        src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
-        allow="fullscreen; payment"
-        aria-hidden="false"
-        tabindex="0"
-        loading="lazy"
-        title="OWASP Los Angeles August meeting registration"
-      ></iframe>
-    </div>
-  </section>
+    <!-- Event 3: Data Con LA 2026 -->
+    <section class="owasp-event-card">
+      <h3>
+        Data Con LA 2026: SoCal’s Longest-Running Data Conference
+      </h3>
 
-</div>
+      <div class="owasp-event-embed">
+        <iframe
+          src="https://luma.com/embed/event/evt-GeIj8Lz1HOTfwnK/simple"
+          allow="fullscreen; payment"
+          aria-hidden="false"
+          tabindex="0"
+          loading="lazy"
+          title="Data Con LA 2026 registration"
+        ></iframe>
+      </div>
+    </section>
+
+    <!-- Event 4: Additional OWASP Los Angeles Meeting -->
+    <section class="owasp-event-card">
+      <h3>
+        Upcoming OWASP Los Angeles Meeting
+      </h3>
+
+      <div class="owasp-event-embed">
+        <iframe
+          src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
+          allow="fullscreen; payment"
+          aria-hidden="false"
+          tabindex="0"
+          loading="lazy"
+          title="OWASP Los Angeles meeting registration"
+        ></iframe>
+      </div>
+    </section>
+
   </div>
+  <!-- End of .owasp-events-grid -->
 
 </div>
-
-
-
+<!-- End of .owasp-events-section -->
 
 
 
