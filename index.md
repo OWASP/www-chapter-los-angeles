@@ -114,25 +114,150 @@ Luma-group: OWASP-Los-Angeles
 
 For the latest OWASP Los Angeles events, workshops, and registration links, follow our Luma community at https://luma.com/owaspla Following the calendar allows you to receive event notifications, RSVP to upcoming events, and stay informed about new chapter activities.
 
-<div style="display:flex; flex-wrap:wrap; gap:24px; align-items:flex-start; margin-top:20px;">
+<style>
+  .owasp-events-intro {
+    margin-bottom: 24px;
+    line-height: 1.6;
+  }
 
-  <div style="flex:1 1 480px; min-width:420px; max-width:600px;">
-    
-       <h3>Upcoming July In-Person Meeting</h3>
+  .owasp-events-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 28px;
+    width: 100%;
+    margin-top: 20px;
+  }
 
-    <iframe
-  src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
-  width="600"
-  height="450"
-  frameborder="0"
-  style="border: 1px solid #bfcbda88; border-radius: 4px;"
-  allow="fullscreen; payment"
-  aria-hidden="false"
-  tabindex="0"
-></iframe>
+  .owasp-event-card {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .owasp-event-card h3 {
+    margin: 0 0 12px;
+    line-height: 1.35;
+  }
+
+  .owasp-event-embed {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+    border: 1px solid #bfcbda88;
+    border-radius: 6px;
+  }
+
+  .owasp-event-embed iframe {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+  }
+
+  /* Mobile layout */
+  @media screen and (max-width: 767px) {
+    .owasp-events-grid {
+      grid-template-columns: 1fr;
+      gap: 24px;
+    }
+
+    .owasp-event-card h3 {
+      font-size: 20px;
+    }
+  }
+</style>
+
+<p class="owasp-events-intro">
+  For the latest OWASP Los Angeles events, workshops, and registration links,
+  follow our Luma community at
+  <a
+    href="https://luma.com/owaspla"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    https://luma.com/owaspla
+  </a>.
+  Following the calendar allows you to receive event notifications, RSVP to
+  upcoming events, and stay informed about new chapter activities.
+</p>
+
+<div class="owasp-events-grid">
+
+  <!-- Regional Cyber Range CTF -->
+  <section class="owasp-event-card">
+    <h3>
+      Regional Cyber Range CTF: Hands-On Web Application Security with Shadow Bank
+    </h3>
+
+    <div class="owasp-event-embed">
+      <iframe
+        src="https://luma.com/embed/event/evt-ogaohv7ClEn9B3N/simple"
+        allow="fullscreen; payment"
+        aria-hidden="false"
+        tabindex="0"
+        loading="lazy"
+        title="Regional Cyber Range CTF registration"
+      ></iframe>
+    </div>
+  </section>
+
+  <!-- Second Event -->
+  <section class="owasp-event-card">
+    <h3>Upcoming OWASP Los Angeles Event</h3>
+
+    <div class="owasp-event-embed">
+      <iframe
+        src="https://luma.com/embed/event/evt-DQdqMr2FJSmFEa4/simple"
+        allow="fullscreen; payment"
+        aria-hidden="false"
+        tabindex="0"
+        loading="lazy"
+        title="OWASP Los Angeles event registration"
+      ></iframe>
+    </div>
+  </section>
+
+  <!-- Data Con LA 2026 -->
+  <section class="owasp-event-card">
+    <h3>Data Con LA 2026: SoCal’s Longest-Running Data Conference</h3>
+
+    <div class="owasp-event-embed">
+      <iframe
+        src="https://luma.com/embed/event/evt-GeIj8Lz1HOTfwnK/simple"
+        allow="fullscreen; payment"
+        aria-hidden="false"
+        tabindex="0"
+        loading="lazy"
+        title="Data Con LA 2026 registration"
+      ></iframe>
+    </div>
+  </section>
+
+  <!-- August Meeting -->
+  <section class="owasp-event-card">
+    <h3>Upcoming August Meeting</h3>
+
+    <div class="owasp-event-embed">
+      <iframe
+        src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
+        allow="fullscreen; payment"
+        aria-hidden="false"
+        tabindex="0"
+        loading="lazy"
+        title="OWASP Los Angeles August meeting registration"
+      ></iframe>
+    </div>
+  </section>
+
+</div>
   </div>
 
 </div>
+
+
+
+
 
 
 <!-- Monthly Sponsors section -->
