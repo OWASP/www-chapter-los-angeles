@@ -237,7 +237,7 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
     upcoming events, and stay informed about new chapter activities.
   </p>
 
-  <!-- IMPORTANT: This opening grid container was missing -->
+  <!-- IMPORTANT: This opening grid container -->
   <div class="owasp-events-grid">
 
     <!-- Event 1: Regional Cyber Range CTF -->
@@ -294,24 +294,7 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
       </div>
     </section>
 
-    <!-- Event 4: Additional OWASP Los Angeles Meeting -->
-    <section class="owasp-event-card">
-      <h3>
-        Upcoming OWASP Los Angeles Meeting
-      </h3>
-
-      <div class="owasp-event-embed">
-        <iframe
-          src="https://luma.com/embed/event/evt-jCe8AdTxdBEH5fg/simple"
-          allow="fullscreen; payment"
-          aria-hidden="false"
-          tabindex="0"
-          loading="lazy"
-          title="OWASP Los Angeles meeting registration"
-        ></iframe>
-      </div>
-    </section>
-
+    
   </div>
   <!-- End of .owasp-events-grid -->
 
