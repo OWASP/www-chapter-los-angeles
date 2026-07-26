@@ -115,74 +115,92 @@ Luma-group: OWASP-Los-Angeles
 For the latest OWASP Los Angeles events, workshops, and registration links, follow our Luma community at https://luma.com/owaspla Following the calendar allows you to receive event notifications, RSVP to upcoming events, and stay informed about new chapter activities.
 
 <style>
+  /* Intro paragraph spacing and readability */
   .owasp-events-intro {
     margin-bottom: 24px;
     line-height: 1.6;
   }
 
+  /* Main event grid: two columns on desktop */
   .owasp-events-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 28px;
+
+    /* Vertical gap: 28px; horizontal gap: 24px */
+    gap: 28px 24px;
+
     width: 100%;
     margin-top: 20px;
+    align-items: start;
   }
 
+  /* Individual event card container */
   .owasp-event-card {
+    display: flex;
+    flex-direction: column;
     width: 100%;
+
+    /* Prevents grid items from causing horizontal scrolling */
     min-width: 0;
   }
 
+  /* Event title styling */
   .owasp-event-card h3 {
     margin: 0 0 12px;
+
+    /* Keeps event embeds aligned when titles use different line counts */
+    min-height: 54px;
+
+    font-size: 18px;
     line-height: 1.35;
   }
 
+  /* Responsive container around each Luma iframe */
   .owasp-event-embed {
-    position: relative;
     width: 100%;
-    aspect-ratio: 4 / 3;
+
+    /* Gives every event embed the same desktop height */
+    height: 320px;
+
+    /* Hides iframe content that extends outside the container */
     overflow: hidden;
+
     border: 1px solid #bfcbda88;
     border-radius: 6px;
+
+    /* Includes the border inside the declared width and height */
+    box-sizing: border-box;
   }
 
+  /* Luma iframe styling */
   .owasp-event-embed iframe {
-    position: absolute;
-    inset: 0;
+    display: block;
     width: 100%;
     height: 100%;
     border: 0;
   }
 
-  /* Mobile layout */
+  /* Mobile layout for screens 767px wide or smaller */
   @media screen and (max-width: 767px) {
+
+    /* Changes the event grid from two columns to one column */
     .owasp-events-grid {
       grid-template-columns: 1fr;
       gap: 24px;
     }
 
+    /* Removes the fixed title height on mobile */
     .owasp-event-card h3 {
-      font-size: 20px;
+      min-height: 0;
+      font-size: 18px;
+    }
+
+    /* Makes the iframe height responsive on smaller screens */
+    .owasp-event-embed {
+      height: clamp(300px, 90vw, 450px);
     }
   }
 </style>
-
-<p class="owasp-events-intro">
-  For the latest OWASP Los Angeles events, workshops, and registration links,
-  follow our Luma community at
-  <a
-    href="https://luma.com/owaspla"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    https://luma.com/owaspla
-  </a>.
-  Following the calendar allows you to receive event notifications, RSVP to
-  upcoming events, and stay informed about new chapter activities.
-</p>
-
-<div class="owasp-events-grid">
 
   <!-- Regional Cyber Range CTF -->
   <section class="owasp-event-card">
