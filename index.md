@@ -308,27 +308,7 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
 
 
 <!-- Platinum sponsors: hybrid sponsorship includes virtual and in-person visibility -->
-### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
-
-<!-- Sponsor logo container: flex layout keeps logos responsive and aligned -->
-<div style="display:flex; flex-wrap:wrap; gap:60px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
-
-  <!-- April 2026 Platinum Sponsor: Semgrep -->
-  <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">April 2026</div>
-    <a href="https://semgrep.dev">
-      <img src="assets/images/Semgreplogo.png" alt="Semgrep" style="height:60px; width:170px; object-fit:contain;">
-    </a>
-  </div>
-
-    <!-- May 2026 Platinum Sponsor: OpenSec -->
-   <div style="display:flex; flex-direction:column; align-items:center; width:170px;">
-    <div style="font-size:12px; font-weight:bold; margin-bottom:8px;">May 2026</div>
-    <a href="https://www.open-sec.com/">
-      <img src="assets/images/Open-SecLogo.png" alt="OpenSec" style="height:100px; width:170px; object-fit:contain;">
-    </a>
-  </div>
 
   ### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
