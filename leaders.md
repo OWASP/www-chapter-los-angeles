@@ -2,5 +2,5 @@
 * [Maryam Tehrani](mailto:maryam.tehrani@owasp.org)
 * [Martin Espinoza](mailto:martin.espinoza@owasp.org)
 * [Edmond Momartin](mailto:edmond.momartin@owasp.org)
-* [Open Position]
+* [Yev Avidon](mailto:yev.avidon@owasp.org)
 * [Open Position]
