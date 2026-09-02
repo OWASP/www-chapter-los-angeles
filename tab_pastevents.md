@@ -16,7 +16,27 @@ tags: Events-tag
 
 <!-- Flex container: wraps cards responsively, 20px gap between them -->
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
-
+     
+  <!-- CARD: Bruce Schneier – August 2026
+       No PDF available yet, so title uses <span> instead of <a>.
+       YouTube link included. -->
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <!-- Month & year label -->
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2026</div>
+    <!-- Talk title (no PDF link yet, plain text) -->
+    <span style="font-weight:bold;">Integrity in a World of AI</span>
+    <!-- Speaker name -->
+    <div style="margin-top:8px; font-style:italic;">Bruce Schneier</div>
+    <!-- Placeholder note until PDF is received -->
+    <div style="margin-top:6px; font-size:12px; color:#999;">Talk did not have slides</div>
+    <!-- YouTube icon link -->
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+     
   <!-- CARD: Russell Tait – May 2026
        No PDF available yet, so title uses <span> instead of <a>.
        YouTube link included. -->
