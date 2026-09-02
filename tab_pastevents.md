@@ -37,6 +37,26 @@ tags: Events-tag
     </div>
   </div>
      
+  <!-- CARD: Brandon Veiseh – August 2026
+       No PDF available yet, so title uses <span> instead of <a>.
+       YouTube link included. -->
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+    <!-- Month & year label -->
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2026</div>
+  <!-- Talk title links directly to PDF -->
+    <a href="assets/prez/OWASPLA_prez_2026_08_26.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+      Talk #2: Massive Coverage: How AI is changing the future of OffSec
+    </a>
+       <!-- Speaker name -->
+    <div style="margin-top:8px; font-style:italic;">Brandon Veiseh</div>
+       <!-- YouTube icon link -->
+    <div style="margin-top:12px;">
+      <a href="https://youtu.be/sRg-q-iG4a4" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  
   <!-- CARD: Russell Tait – May 2026
        No PDF available yet, so title uses <span> instead of <a>.
        YouTube link included. -->
