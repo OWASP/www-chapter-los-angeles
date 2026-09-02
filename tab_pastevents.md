@@ -31,7 +31,7 @@ tags: Events-tag
     <div style="margin-top:6px; font-size:12px; color:#999;">Talk did not have slides</div>
     <!-- YouTube icon link -->
     <div style="margin-top:12px;">
-      <a href="https://youtu.be/UtNciIz-NNU?si=n1_AictrzyFFIEUI" target="_blank">
+      <a href="https://youtu.be/RLxQI7wYygQ" target="_blank">
         <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
       </a>
     </div>
