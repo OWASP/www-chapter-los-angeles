@@ -24,7 +24,7 @@ tags: Events-tag
     <!-- Month & year label -->
     <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2026</div>
     <!-- Talk title (no PDF link yet, plain text) -->
-    <span style="font-weight:bold;">Integrity in a World of AI</span>
+    <span style="font-weight:bold;">Talk #1: Integrity in a World of AI</span>
     <!-- Speaker name -->
     <div style="margin-top:8px; font-style:italic;">Bruce Schneier</div>
     <!-- Placeholder note until PDF is received -->
