@@ -51,7 +51,7 @@ tags: Events-tag
     <div style="margin-top:6px; font-size:12px; color:#999;">PDF coming soon</div>
     <!-- YouTube icon link -->
     <div style="margin-top:12px;">
-      <a href="" target="_blank">
+      <a href="https://youtu.be/sRg-q-iG4a4" target="_blank">
         <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
       </a>
     </div>
