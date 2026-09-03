@@ -17,12 +17,12 @@ tags: Events-tag
 <!-- Flex container: wraps cards responsively, 20px gap between them -->
 <div style="display:flex; flex-wrap:wrap; gap:20px; margin-top:15px; margin-bottom:30px;">
      
-  <!-- CARD: Bruce Schneier – August 2026
+  <!-- CARD: Bruce Schneier – August 26, 2026
        No PDF available yet, so title uses <span> instead of <a>.
        YouTube link included. -->
   <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
     <!-- Month & year label -->
-    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2026</div>
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 26, 2026</div>
     <!-- Talk title (no PDF link yet, plain text) -->
     <span style="font-weight:bold;">Talk #1: Integrity in a World of AI</span>
     <!-- Speaker name -->
@@ -80,7 +80,7 @@ tags: Events-tag
       <!-- Month & year label --> 
     <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 16, 2026</div>
     <!-- Talk title links directly to PDF -->
-    <a href="assets/prez/OWASPLA_prez_2026_06_14.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+    <a href="assets/prez/OWASPLA_prez_2026_06_16.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
      WORKSHOP: Exploit, Detect, Block: A Live Workshop on Application Attack Defense
     </a>
        <!-- Speaker name -->
