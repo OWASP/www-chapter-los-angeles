@@ -37,12 +37,12 @@ tags: Events-tag
     </div>
   </div>
      
-  <!-- CARD: Brandon Veiseh – August 2026
+  <!-- CARD: Brandon Veiseh – August 26, 2026
        No PDF available yet, so title uses <span> instead of <a>.
        YouTube link included. -->
   <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
     <!-- Month & year label -->
-    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 2026</div>
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">August 26, 2026</div>
   <!-- Talk title links directly to PDF -->
     <a href="assets/prez/OWASPLA_prez_2026_08_26.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
       Talk #2: Massive Coverage: How AI is changing the future of OffSec
@@ -57,10 +57,10 @@ tags: Events-tag
     </div>
   </div>
   
-  <!-- CARD: Arshan Dabirsiaghi – June 2026  PDF available, title is a clickable link. YouTube link included. -->
+  <!-- CARD: Arshan Dabirsiaghi – June 24, 2026  PDF available, title is a clickable link. YouTube link included. -->
   <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
       <!-- Month & year label --> 
-    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 2026</div>
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 24, 2026</div>
     <!-- Talk title links directly to PDF -->
     <a href="assets/prez/OWASPLA_prez_2026_06_24.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
      AI Techniques for Automatic Triage Classification
@@ -70,6 +70,24 @@ tags: Events-tag
     <div style="margin-top:12px;">
         <!-- YouTube icon link -->
       <a href="https://youtu.be/wYVTS9nh1x4" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+
+<!-- CARD: Jeff Bayntun – June 16, 2026  PDF available, title is a clickable link. YouTube link included. -->
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+      <!-- Month & year label --> 
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 16, 2026</div>
+    <!-- Talk title links directly to PDF -->
+    <a href="assets/prez/OWASPLA_prez_2026_06_14.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+     WORKSHOP: Exploit, Detect, Block: A Live Workshop on Application Attack Defense
+    </a>
+       <!-- Speaker name -->
+    <div style="margin-top:8px; font-style:italic;">Jeff Bayntun</div>
+    <div style="margin-top:12px;">
+        <!-- YouTube icon link -->
+      <a href="https://youtu.be/rNLD3lOyJYs" target="_blank">
         <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
       </a>
     </div>
