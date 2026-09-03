@@ -57,6 +57,24 @@ tags: Events-tag
     </div>
   </div>
   
+  <!-- CARD: Arshan Dabirsiaghi – June 2026  PDF available, title is a clickable link. YouTube link included. -->
+  <div style="width:280px; border:1px solid #ddd; border-radius:8px; padding:16px; background:#fff;">
+      <!-- Month & year label --> 
+    <div style="font-size:13px; font-weight:bold; color:#555; margin-bottom:8px;">June 2026</div>
+    <!-- Talk title links directly to PDF -->
+    <a href="assets/prez/OWASPLA_prez_2026_06_24.pdf" target="_blank" style="font-weight:bold; text-decoration:none;">
+     AI Techniques for Automatic Triage Classification
+    </a>
+       <!-- Speaker name -->
+    <div style="margin-top:8px; font-style:italic;">Arshan Dabirsiaghi</div>
+    <div style="margin-top:12px;">
+        <!-- YouTube icon link -->
+      <a href="https://youtu.be/wYVTS9nh1x4" target="_blank">
+        <img src="assets/images/YouTube_Icon_30x22.png" alt="YouTube"/>
+      </a>
+    </div>
+  </div>
+  
   <!-- CARD: Russell Tait – May 2026
        No PDF available yet, so title uses <span> instead of <a>.
        YouTube link included. -->
