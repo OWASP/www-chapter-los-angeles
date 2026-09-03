@@ -781,7 +781,10 @@ tags: Events-tag
     <div style="margin-top:12px; font-size:13px; color:#555;">PDF</div>
   </div>
 
-Presentations prior to 2003 are available on our YouTube channel <a href="https://www.youtube.com/@OWASPLosAngeles" target="_blank">www.youtube.com/@OWASPLosAngeles</a>
+<p> Presentations prior to 2003 are available on our YouTube channel 
+     <a href="https://www.youtube.com/@OWASPLosAngeles" target="_blank">www.youtube.com/@OWASPLosAngeles</a>
+</p>
+
 
 </div><!-- end 2023 flex container -->
 
