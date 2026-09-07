@@ -2,11 +2,11 @@
 
 ### Cybersecurity Awareness Month  2025 Champion
 <!--  ![Cybersecurity Awareness Month badge](assets/images/2025ChampionBadge-CybersecurityAwarenessMonth.png) -->
-  <img src="assets/images/2025ChampionBadge-CybersecurityAwarenessMonth.png" width="300" height="300" alt="Cybersecurity Awareness Month badge">
+  <img src="assets/images/2025ChampionBadge-CybersecurityAwarenessMonth.png" width="200" height="200" alt="Cybersecurity Awareness Month badge">
 
 ### Cybersecurity Awareness Month  2024 Champion
 <!--  ![Cybersecurity Awareness Month badge](assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png) -->
-<img src="assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png" width="300" height="1968" alt="Cybersecurity Awareness Month badge">
+<img src="assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png" width="300" height="168" alt="Cybersecurity Awareness Month badge">
 
 
 
