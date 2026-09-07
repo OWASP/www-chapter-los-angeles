@@ -243,54 +243,60 @@ For the latest OWASP Los Angeles events, workshops, and registration links, foll
     <!-- Event 1: Regional Cyber Range CTF -->
     <section class="owasp-event-card">
       <h3>
-        Regional Cyber Range CTF: Hands-On Web Application Security with Shadow Bank
+        OWASP Los Angeles × SecureFlag Secure Development Tournament
       </h3>
 
       <div class="owasp-event-embed">
-        <iframe
-          src="https://luma.com/embed/event/evt-ogaohv7ClEn9B3N/simple"
-          allow="fullscreen; payment"
-          aria-hidden="false"
-          tabindex="0"
-          loading="lazy"
-          title="Regional Cyber Range CTF registration"
-        ></iframe>
+          <iframe
+            src="https://luma.com/embed/event/evt-e8eCMOK1z7B9VfG/simple"
+            width="600"
+            height="450"
+            frameborder="0"
+            style="border: 1px solid #bfcbda88; border-radius: 4px;"
+            allow="fullscreen; payment"
+            aria-hidden="false"
+            tabindex="0"
+          ></iframe>
       </div>
     </section>
 
     <!-- Event 2: August OWASP Los Angeles Meeting -->
     <section class="owasp-event-card">
       <h3>
-        Massive Coverage: How AI Is Changing the Future of OffSec
+        OWASP LA September [VIRTUAL] Meetup - Santiago Castiñeira
       </h3>
 
       <div class="owasp-event-embed">
         <iframe
-          src="https://luma.com/embed/event/evt-DQdqMr2FJSmFEa4/simple"
-          allow="fullscreen; payment"
-          aria-hidden="false"
-          tabindex="0"
-          loading="lazy"
-          title="Massive Coverage OWASP Los Angeles event registration"
-        ></iframe>
+            src="https://luma.com/embed/event/evt-8MZnDpK7sRzFy26/simple"
+            width="600"
+            height="450"
+            frameborder="0"
+            style="border: 1px solid #bfcbda88; border-radius: 4px;"
+            allow="fullscreen; payment"
+            aria-hidden="false"
+            tabindex="0"
+          ></iframe>
       </div>
     </section>
 
     <!-- Event 3: Data Con LA 2026 -->
     <section class="owasp-event-card">
       <h3>
-        Data Con LA 2026: SoCal’s Longest-Running Data Conference
+        OWASP LA September In Person Meetup - Mark Mazur
       </h3>
 
       <div class="owasp-event-embed">
-        <iframe
-          src="https://luma.com/embed/event/evt-GeIj8Lz1HOTfwnK/simple"
-          allow="fullscreen; payment"
-          aria-hidden="false"
-          tabindex="0"
-          loading="lazy"
-          title="Data Con LA 2026 registration"
-        ></iframe>
+          <iframe
+            src="https://luma.com/embed/event/evt-moneazBO7537Rj5/simple"
+            width="600"
+            height="450"
+            frameborder="0"
+            style="border: 1px solid #bfcbda88; border-radius: 4px;"
+            allow="fullscreen; payment"
+            aria-hidden="false"
+            tabindex="0"
+          ></iframe>
       </div>
     </section>
 
