@@ -316,7 +316,7 @@ Luma-group: OWASP-Los-Angeles
 <!-- Platinum sponsors: hybrid sponsorship includes virtual and in-person visibility -->
 
 
-  ### Platinum (Hybrid Sponsor – Virtual + In-Person)
+### Platinum (Hybrid Sponsor – Virtual + In-Person)
 
 <!-- Sponsor logo container: keeps sponsor cards responsive and aligned -->
 <div style="display:flex; flex-wrap:wrap; gap:60px; align-items:center; justify-content:flex-start; margin-top:10px; margin-bottom:30px;">
