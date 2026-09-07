@@ -6,7 +6,7 @@
 
 ### Cybersecurity Awareness Month  2024 Champion
 <!--  ![Cybersecurity Awareness Month badge](assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png) -->
-<img src="assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png" width="300" height="300" alt="Cybersecurity Awareness Month badge">
+<img src="assets/images/2024ChampionBadge-CybersecurityAwarenessMonth.png" width="300" height="1968" alt="Cybersecurity Awareness Month badge">
 
 
 
